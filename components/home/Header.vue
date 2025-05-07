@@ -9,9 +9,8 @@
         <div class="col-lg-6">
           <div class="text mb-100">
             <h4>
-              We are a creative studio that specializes in providing
-              high-quality design and branding solutions to businesses and
-              individuals.
+              Venkatadri Goutham Anumala izes in providing high-quality design
+              and branding solutions to businesses and individuals.
             </h4>
           </div>
         </div>
