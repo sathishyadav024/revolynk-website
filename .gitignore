@@ -1,0 +1,20 @@
+# Nuxt.js build and runtime files
+.nuxt
+dist
+
+# Node modules
+node_modules
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code settings (optional)
+.vscode
