@@ -38,6 +38,18 @@ import Latestnews from "@/components/home/Latestnews";
 
 import { onMounted } from "vue";
 
+useSchemaOrg([
+  defineWebSite({
+    name: "Revolynk Techs",
+    url: "https://www.revolynk.com",
+  }),
+  defineWebPage({
+    name: "Home",
+    description:
+      "Innovative digital solutions including web development, mobile apps, and cloud services.",
+  }),
+]);
+
 useHead({
   link: [
     { rel: "stylesheet", href: "/assets/css/plugins.css" },

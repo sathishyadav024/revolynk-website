@@ -10,7 +10,9 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "^3.10.1",
+    "@nuxtjs/sitemap": "^7.2.10",
+    "nuxt": "^3.17.2",
+    "nuxt-schema-org": "^5.0.5",
     "swiper": "^8.4.7",
     "vue": "^3.4.15",
     "vue-router": "^4.2.5"

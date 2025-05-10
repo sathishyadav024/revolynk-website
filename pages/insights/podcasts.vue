@@ -7,9 +7,8 @@
   <div id="smooth-wrapper">
     <div id="smooth-content">
       <main class="main-bg o-hidden">
-        <Services />
-        <Services2 />
-        <Marquee />
+        <Header />
+        <Podcasts />
       </main>
       <Footer />
     </div>
@@ -20,25 +19,27 @@ import Lines from "@/components/Lines";
 import ProgressScroll from "@/components/ProgressScroll";
 import Cursor from "@/components/cusor";
 import LoadingScreen from "@/components/loader";
-import Blog from "@/components/dark/home-main/Blog";
-import Clients from "@/components/dark/home-main/Clients";
-import Footer from "@/components/Footer";
-import Header from "@/components/dark/home-main/Header";
-import Intro from "@/components/dark/home-main/Intro";
-import Marquee from "@/components/dark/home-main/Marquee";
 import Navbar from "@/components/Navbar";
-import Portfolio from "@/components/dark/home-main/Portfolio";
-import Services from "@/components/dark/home-main/Services";
-import Services2 from "@/components/dark/home-main/Services2";
-import Team from "@/components/dark/home-main/Team";
-import Testimonials from "@/components/dark/home-main/Testimonials";
+import Footer from "@/components/Footer";
+import Header from "@/components/podcasts/Header";
+import Podcasts from "@/components/podcasts/Podcasts";
+
 import { onMounted } from "vue";
 
 useHead({
   link: [
-    { rel: "stylesheet", href: "/dark/assets/css/plugins.css" },
-    { rel: "stylesheet", href: "/dark/assets/css/satoshi.css" },
-    { rel: "stylesheet", href: "/dark/assets/css/style.css" },
+    { rel: "stylesheet", href: "/assets/css/plugins.css" },
+    { rel: "stylesheet", href: "/assets/css/satoshi.css" },
+    { rel: "stylesheet", href: "/assets/css/style.css" },
+  ],
+
+  title: "Podcasts | Revolynk Techs Pvt. Ltd.",
+  meta: [
+    {
+      name: "description",
+      content:
+        "Learn how Revolynk Techs Private Limited collects, uses, protects, and manages your data. Our Privacy Policy ensures complete transparency and safeguards your personal and business information",
+    },
   ],
   // script: [{ src: '/dark/assets/js/smoother-script.js', defer: true }],
 });

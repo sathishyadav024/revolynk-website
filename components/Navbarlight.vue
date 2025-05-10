@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg bord blur">
     <div class="container">
-      <a class="logo icon-img-140" href="#">
+      <a class="logo icon-img-140" href="/">
         <img src="/assets/imgs/logo/light-logo.webp" alt="logo" />
       </a>
 
