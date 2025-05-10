@@ -34,7 +34,6 @@
               <a class="dropdown-item" href="/insights/live-interviews">
                 Live Interviews
               </a>
-              <a class="dropdown-item" href="/insights/news"> News</a>
             </div>
           </li>
           <li
@@ -216,7 +215,7 @@
               <span class="rolling-text">Viewpoint</span>
             </a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="/viewpoint/casestudies">
+              <a class="dropdown-item" href="/viewpoint/perspectives">
                 Perspectives
               </a>
               <a class="dropdown-item" href="/viewpoint/research-reports"
@@ -243,7 +242,11 @@
               <a class="dropdown-item" href="/careers/careers-main">
                 Careers Main
               </a>
-              <a class="dropdown-item" href="/careers/job-openings">
+              <a
+                class="dropdown-item"
+                href="https://voyagers.revolynk.cloud/job-opening/904d684ec882ad26e444a07c39b9be3a"
+                target="_blank"
+              >
                 Job Openings
               </a>
               <a class="dropdown-item" href="/careers/how-we-hire"
@@ -350,9 +353,6 @@
                       <a href="/insights/live-interviews" class="sub-link">
                         Live Interviews
                       </a>
-                    </li>
-                    <li>
-                      <a href="/insights/news" class="sub-link"> News </a>
                     </li>
                   </ul>
                 </div>
@@ -579,7 +579,11 @@
                       </a>
                     </li>
                     <li>
-                      <a class="sub-link" href="/careers/job-openings">
+                      <a
+                        class="sub-link"
+                        href="https://voyagers.revolynk.cloud/job-opening/904d684ec882ad26e444a07c39b9be3a"
+                        target="_blank"
+                      >
                         Job Openings
                       </a>
                     </li>

@@ -1,6 +1,18 @@
 import { fileURLToPath } from "node:url";
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  modules: ["@nuxtjs/sitemap"],
+  sitemap: {
+    hostname: "https://www.revolynk.com",
+    gzip: true,
+    routes: [
+      "/", // Add other routes as needed
+    ],
+  },
+  modules: ["nuxt-schema-org"],
+  schemaOrg: {
+    host: "https://www.revolynk.com",
+  },
   devtools: { enabled: false },
   ssr: true,
   typescript: {
@@ -29,20 +41,55 @@ export default defineNuxtConfig({
           content: "IE=edge",
         },
         {
-          name: "keywords",
-          content: "Vue Nuxtjs Template webfolio Multi-Purpose themeforest",
+          name: "author",
+          content: "Team Voyagers, Revolynk Techs Private Limited",
         },
         {
           name: "description",
-          content: "webfolio - Multi-Purpose Vue Nuxtjs Template",
+          content:
+            "Revolynk Techs offers innovative digital solutions including web development, mobile apps, and cloud services to elevate your business.",
         },
         {
-          name: "author",
-          content: "Uicamp",
+          name: "keywords",
+          content:
+            "Revolynk, digital solutions, web development, mobile apps, cloud services, Hyderabad",
         },
+        { name: "robots", content: "index, follow" },
+        { name: "geo.country", content: "IN" },
+        {
+          property: "og:title",
+          content: "Revolynk Techs | Empowering Digital Solutions",
+        },
+        {
+          property: "og:description",
+          content:
+            "Innovative digital solutions including web development, mobile apps, and cloud services.",
+        },
+        {
+          property: "og:image",
+          content: "https://www.revolynk.com/og-image.jpg",
+        },
+        { property: "og:url", content: "https://www.revolynk.com" },
+        { property: "og:type", content: "website" },
+        { name: "twitter:card", content: "summary_large_image" },
+        {
+          name: "twitter:title",
+          content: "Revolynk Techs | Empowering Digital Solutions",
+        },
+        {
+          name: "twitter:description",
+          content:
+            "Innovative digital solutions including web development, mobile apps, and cloud services.",
+        },
+        {
+          name: "twitter:image",
+          content: "https://www.revolynk.com/twitter-image.jpg",
+        },
+        { name: "fb:app_id", content: "Your_FB_App_ID" },
       ],
       link: [
         { rel: "shortcut icon", href: "assets/imgs/logo/favicon/favicon.ico" },
+        { rel: "canonical", href: "https://www.revolynk.com" },
         // Google Fonts
         {
           rel: "stylesheet",

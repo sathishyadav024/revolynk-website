@@ -9,8 +9,8 @@
         <div class="col-lg-6">
           <div class="text mb-100">
             <h4>
-              Venkatadri Goutham Anumala izes in providing high-quality design
-              and branding solutions to businesses and individuals.
+              We prioritizes in providing high-quality design and branding
+              solutions to businesses and individuals.
             </h4>
           </div>
         </div>
