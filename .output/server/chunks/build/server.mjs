@@ -384,7 +384,7 @@ const _routes = [
   {
     name: "index",
     path: "/",
-    component: () => import('./index-m_coq14N.mjs')
+    component: () => import('./index-BVM0qYn6.mjs')
   },
   {
     name: "legal-sitemap",
