@@ -2,10 +2,11 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const crypto = require('crypto');
 const { exec } = require('child_process');
-
 const app = express();
+
 const secret = 'REVOLYNK$github@2025';
 
+// Middleware to verify GitHub signature
 function verifySignature(req, res, buf) {
   const signature = req.headers['x-hub-signature-256'];
   const hmac = crypto.createHmac('sha256', secret);
@@ -16,24 +17,27 @@ function verifySignature(req, res, buf) {
   }
 }
 
-// Set limit and verify raw body for GitHub
+// Use body-parser with raw body verification
 app.use(bodyParser.json({ limit: '1mb', verify: verifySignature }));
 
+// GitHub webhook endpoint
 app.post('/hooks/github', (req, res) => {
   console.log('✅ Webhook received');
-  // Respond immediately
+
+  // Respond to GitHub immediately to avoid timeout
   res.status(200).send('OK');
 
-  exec('sh ./deploy.sh', (err, stdout, stderr) => {
+  // Run deploy.sh asynchronously and log output
+  exec('sh ./deploy.sh >> deploy.log 2>&1', (err) => {
     if (err) {
-      console.error('❌ Deploy failed:', stderr);
-      return res.status(500).send('Deployment error');
+      console.error('❌ Deployment failed. Check deploy.log for details.');
+    } else {
+      console.log('✅ Deployment triggered successfully.');
     }
-    console.log('✅ Deploy output:', stdout);
-    res.status(200).send('Deployment triggered');
   });
 });
 
+// Start the server
 app.listen(4000, () => {
   console.log('🚀 Webhook listener running on port 4000');
 });
