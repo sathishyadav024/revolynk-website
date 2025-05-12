@@ -18,7 +18,7 @@
               doloremque? Qui eligendi sed vero quaerat?
             </p>
             <div class="full-width">
-              <form id="contact-form" method="post" action="https://www.revolynk.com/pages/about-us/contact.php">
+              <form id="contact-form" method="post" action="contact.php">
                 <div class="messages"></div>
 
                 <div class="controls row">
