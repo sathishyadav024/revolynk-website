@@ -1,7 +1,7 @@
 <template>
   <header
     class="header main-header bg-img pb-300"
-    data-background="/assets/imgs/home/bg1.webp"
+    data-background="/assets/imgs/home/bg2.mp4"
     data-overlay-dark="8"
   >
     <div class="container">
