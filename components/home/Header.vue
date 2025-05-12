@@ -10,7 +10,7 @@
           <div class="text mb-100">
             <h4>
 We prioritizes in providing high-quality design and branding
-              solutions to businesses and individuals.
+              solutions to businesses and individuals.REVOLYNK
             </h4>
           </div>
         </div>
