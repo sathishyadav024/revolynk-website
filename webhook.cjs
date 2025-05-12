@@ -21,6 +21,8 @@ app.use(bodyParser.json({ limit: '1mb', verify: verifySignature }));
 
 app.post('/hooks/github', (req, res) => {
   console.log('✅ Webhook received');
+  // Respond immediately
+  res.status(200).send('OK');
 
   exec('sh ./deploy.sh', (err, stdout, stderr) => {
     if (err) {
