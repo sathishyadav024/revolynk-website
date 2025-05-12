@@ -27,13 +27,13 @@ import LoadingScreen from "@/components/loader";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 
-import Header from "@/components/cyber-phsical-security/Header";
-import Whythis from "@/components/cyber-phsical-security/Whythis";
-import Whatwedo from "@/components/cyber-phsical-security/Whatwedo";
-import Whatclient from "@/components/cyber-phsical-security/Whatclient";
-import Casestudies from "@/components/cyber-phsical-security/Casestudies";
-import Faqs from "@/components/cyber-phsical-security/Faqs";
-import Cta from "@/components/cyber-phsical-security/Cta";
+import Header from "@/components/cyber-physical-security/Header";
+import Whythis from "@/components/cyber-physical-security/Whythis";
+import Whatwedo from "@/components/cyber-physical-security/Whatwedo";
+import Whatclient from "@/components/cyber-physical-security/Whatclient";
+import Casestudies from "@/components/cyber-physical-security/Casestudies";
+import Faqs from "@/components/cyber-physical-security/Faqs";
+import Cta from "@/components/cyber-physical-security/Cta";
 
 import { onMounted } from "vue";
 
