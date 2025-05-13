@@ -10,27 +10,25 @@ function verifySignature(req, res, buf) {
   const signature = req.headers['x-hub-signature-256'];
   const hmac = crypto.createHmac('sha256', secret);
   hmac.update(buf);
-  const digest = `sha256=${hmac.digest('hex')}`;
+  const digest = sha256=${hmac.digest('hex')};
   if (signature !== digest) {
     throw new Error('Invalid signature');
   }
 }
 
+// Set limit and verify raw body for GitHub
 app.use(bodyParser.json({ limit: '1mb', verify: verifySignature }));
 
 app.post('/hooks/github', (req, res) => {
   console.log('✅ Webhook received');
 
-  // Respond immediately so GitHub doesn't time out
-  res.status(200).send('OK');
-
-  // Run deploy script in background
-  exec('sh ./deploy.sh >> deploy.log 2>&1', (err) => {
+  exec('sh ./deploy.sh', (err, stdout, stderr) => {
     if (err) {
-      console.error('❌ Deploy failed. See deploy.log for details.');
-    } else {
-      console.log('✅ Deploy completed');
+      console.error('❌ Deploy failed:', stderr);
+      return res.status(500).send('Deployment error');
     }
+    console.log('✅ Deploy output:', stdout);
+    res.status(200).send('Deployment triggered');
   });
 });
 
