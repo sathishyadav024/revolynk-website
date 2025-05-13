@@ -1,1 +1,0 @@
-const i=[{title:"Nice guy with a smile",subTitle:"Graphic Designing",link:"/dark/project1"},{title:"Nice guy with a smile",subTitle:"Graphic Designing",link:"/dark/project2"},{title:"Nice guy with a smile",subTitle:"Graphic Designing",link:"/dark/project3"},{title:"Nice guy with a smile",subTitle:"Graphic Designing",link:"/dark/project4"}];export{i as d};
