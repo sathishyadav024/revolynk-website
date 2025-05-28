@@ -34,7 +34,7 @@
               <div class="col-md-6">
                 <div class="item">
                   <span class="opacity-8 mb-5">Latest Updated On :</span>
-                  <h6>19 April 2025</h6>
+                  <h6>28 May 2025</h6>
                 </div>
               </div>
             </div>
