@@ -6,8 +6,8 @@
           <div class="cont md-mb50">
             <h6 class="sub-title main-color mb-15">Who We Are</h6>
             <h3>
-              Our team consists ofnpractitioners who have years of experience in
-              launching & managing projects.
+              Our team consists of practitioners who have years of experience in
+              launching and managing projects.
             </h3>
             <div class="d-flex align-items-end mt-100">
               <div>
