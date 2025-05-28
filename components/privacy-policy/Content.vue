@@ -11,7 +11,7 @@
         <div class="col-lg-7">
           <div class="text">
             <h5 class="mb-30 fw-400 line-height-40">
-              We collect user information to provide better services, enhance
+              The collected user information is used to provide better services, enhance
               user experience, and ensure website security. This information can
               be categorized into personal data and non-personal data. The
               collection of data is carried out through direct input by users,
@@ -29,7 +29,7 @@
               Name, Company Details.
             </p>
             <p class="fz-18 mb-30">
-              We collect this information when users fill out contact forms,
+              The information is collected when users fill out contact forms,
               subscribe to newsletters, register for services, or make
               transactions on our website. Providing accurate information allows
               us to offer customized services and better assistance.
@@ -73,14 +73,14 @@
       <div class="row pt-75">
         <div class="col-lg-5">
           <h2 class="mb-50">
-            2. How we use <br />
-            your information
+            2. How Your <br />
+            Information Is Used
           </h2>
         </div>
         <div class="col-lg-7">
           <div class="text">
             <h5 class="mb-30 fw-400 line-height-40">
-              In Revolynk Techs Private Limited, the information we collect from
+              In Revolynk Techs Private Limited, the information collected from
               our users plays a critical role in delivering our services,
               enhancing user experiences, maintaining a secure digital
               environment, and meeting our legal responsibilities. We ensure
@@ -92,7 +92,7 @@
               2.1 Delivering Core Services and Enhancing Functionality:
             </p>
             <p class="fz-18 mb-30">
-              We use your personal and non-personal data to deliver, operate,
+              The purpose of using your personal and non-personal data to deliver, operate,
               and improve the diverse range of technology services we offer.
               This includes cloud computing solutions, cybersecurity protection,
               artificial intelligence implementations, digital marketing
@@ -217,8 +217,8 @@
       <div class="row pt-75">
         <div class="col-lg-5">
           <h2 class="mb-50">
-            3. How we <br />
-            share your information
+            3. How Your <br />
+            Information Is Shared
           </h2>
         </div>
         <div class="col-lg-7">
@@ -271,7 +271,7 @@
               3.3 Legal Obligations and Law Enforcement Requests :
             </p>
             <p class="fz-18 mb-30">
-              We may disclose your information when legally required to do so.
+              Your information may be disclosed when legally required to do so.
               This includes responding to subpoenas, court orders, or other
               legal processes initiated by governmental authorities or law
               enforcement agencies. We may also disclose information when we
