@@ -11,7 +11,7 @@
               1.1 Overview of Revolynk Techs Private Limited :
             </p>
             <p class="fz-18 mb-30">
-              Revolynk Techs Private Limited (“we”, “our”, or “the Company”) is
+              Revolynk Techs Private Limited is
               a technology-driven service provider committed to offering
               high-quality services across various sectors, including software
               development, cloud services, cybersecurity, digital marketing, AI
