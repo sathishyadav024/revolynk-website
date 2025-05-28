@@ -5,7 +5,7 @@
         <div class="col-lg-5">
           <h2 class="mb-50">
             1. Information <br />
-            we collect
+            Gathered
           </h2>
         </div>
         <div class="col-lg-7">
