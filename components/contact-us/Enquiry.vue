@@ -22,15 +22,15 @@
         <div class="col-lg-3 offset-lg-2">
           <div class="md-mb50">
             <h6 class="mb-30 text-u ls1">Our Address</h6>
-            <p>Besòs 1, 08174 Sant Cugat del Vallès, Barcelona</p>
+            <p>H No 1-4-180/112/A, Sri Sai Baba Officer's Colony, Madhavapuri Colony, Kapra, Hyderabad, Secunderabad, Telangana 500062</p>
           </div>
         </div>
         <div class="col-lg-3">
           <div>
             <h6 class="mb-30 text-u ls1">BUSINESS INQUIRIES</h6>
-            <p>Support@uithemez.com</p>
+            <p>reach@revolynk.com</p>
             <h6 class="phone mt-10 underline main-color">
-              <a href="#0">+1 840 841 25 69</a>
+              <a href="#0">+91 70930 83375</a>
             </h6>
           </div>
         </div>

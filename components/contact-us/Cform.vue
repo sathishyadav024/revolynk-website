@@ -12,10 +12,7 @@
               </span>
             </h2>
             <p class="pb-20">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Consequuntur, incidunt! Lorem ipsum dolor, sit amet consectetur
-              adipisicing elit. Quidem sint culpa corrupti aperiam maiores
-              doloremque? Qui eligendi sed vero quaerat?
+              At Revolynk Techs, we don’t just build websites or apps—we craft digital experiences that drive growth. Whether you're a startup or an enterprise, we’re here to innovate, build, and scale your vision.
             </p>
             <div class="full-width">
               <form id="contact-form" method="post" action="contact.php">
