@@ -47,19 +47,58 @@ import Contact from "@/components/team/raghu/Contact";
 import { onMounted } from "vue";
 
 useHead({
+  title: "Raghuvarma Kanikaram | Frontend Developer | Revolynk Techs Pvt. Ltd.",
+meta: [
+  { name: "viewport", content: "width=device-width, initial-scale=1" },
+  { charset: "utf-8" },
+  { "http-equiv": "X-UA-Compatible", content: "IE=edge" },
+  {
+    name: "author",
+    content: "Team Voyagers, Revolynk Techs Private Limited",
+  },
+  {
+    name: "description",
+    content:
+      "Meet Raghuvarma Kanikaram, a skilled Frontend Developer at Revolynk Techs Pvt. Ltd., passionate about creating seamless and engaging user experiences with modern web technologies.",
+  },
+  {
+    name: "keywords",
+    content:
+      "Raghuvarma Kanikaram, frontend developer, Revolynk Techs, UI developer, JavaScript, React, HTML, CSS, web development, tech team Hyderabad",
+  },
+  { name: "robots", content: "index, follow" },
+  { name: "geo.country", content: "IN" },
+  { name: "geo.region", content: "IN-TG" },
+  { name: "geo.placename", content: "Hyderabad" },
+  { name: "ICBM", content: "17.49280282, 78.54749160" },
+
+  { property: "og:title", content: "Raghuvarma Kanikaram | Frontend Developer at Revolynk Techs" },
+  {
+    property: "og:description",
+    content:
+      "Explore the profile of Raghuvarma Kanikaram, Frontend Developer at Revolynk Techs. Building responsive and user-friendly digital experiences.",
+  },
+  { property: "og:image", content: "https://www.revolynk.com/raghuvarma-meta.jpg" },
+  { property: "og:url", content: "https://www.revolynk.com/raghuvarma-kanikaram" },
+  { property: "og:type", content: "profile" },
+
+  { name: "twitter:card", content: "summary_large_image" },
+  {
+    name: "twitter:title",
+    content: "Raghuvarma Kanikaram | Frontend Developer at Revolynk",
+  },
+  {
+    name: "twitter:description",
+    content:
+      "Get to know Raghuvarma Kanikaram, Frontend Developer at Revolynk Techs. Crafting clean interfaces and smooth digital journeys.",
+  },
+  { name: "twitter:image", content: "https://www.revolynk.com/raghuvarma-meta.jpg" },
+  { name: "fb:app_id", content: "Your_FB_App_ID" },
+],
   link: [
     { rel: "stylesheet", href: "/assets/light/css/plugins.css" },
     { rel: "stylesheet", href: "/assets/light/css/satoshi.css" },
     { rel: "stylesheet", href: "/assets/light/css/style.css" },
-  ],
-
-  title: "Raghuvarma Kanikaram | Revolynk Techs Pvt. Ltd.",
-  meta: [
-    {
-      name: "description",
-      content:
-        "Learn how Revolynk Techs Private Limited collects, uses, protects, and manages your data. Our Privacy Policy ensures complete transparency and safeguards your personal and business information",
-    },
   ],
   // script: [{ src: '/light/assets/js/smoother-script.js', defer: true }],
 });

@@ -30,19 +30,58 @@ import Slider from "@/components/perspectives-inner/Slider";
 import { onMounted } from "vue";
 
 useHead({
+  title: "Perspectives | Insights & Thought Leadership | Revolynk Techs Pvt. Ltd.",
+meta: [
+  { name: "viewport", content: "width=device-width, initial-scale=1" },
+  { charset: "utf-8" },
+  { "http-equiv": "X-UA-Compatible", content: "IE=edge" },
+  {
+    name: "author",
+    content: "Team Voyagers, Revolynk Techs Private Limited",
+  },
+  {
+    name: "description",
+    content:
+      "Explore expert perspectives and insights from Revolynk Techs on technology trends, innovation, and digital transformation.",
+  },
+  {
+    name: "keywords",
+    content:
+      "Revolynk perspectives, thought leadership, tech insights, digital innovation, industry trends, expert articles, Hyderabad",
+  },
+  { name: "robots", content: "index, follow" },
+  { name: "geo.country", content: "IN" },
+  { name: "geo.region", content: "IN-TG" },
+  { name: "geo.placename", content: "Hyderabad" },
+  { name: "ICBM", content: "17.49280282, 78.54749160" },
+
+  { property: "og:title", content: "Perspectives | Expert Views from Revolynk Techs" },
+  {
+    property: "og:description",
+    content:
+      "Discover expert insights and thought leadership from Revolynk Techs on emerging technologies and business innovation.",
+  },
+  { property: "og:image", content: "https://www.revolynk.com/perspectives-meta-image.jpg" },
+  { property: "og:url", content: "https://www.revolynk.com/perspectives" },
+  { property: "og:type", content: "article" },
+
+  { name: "twitter:card", content: "summary_large_image" },
+  {
+    name: "twitter:title",
+    content: "Perspectives | Expert Views from Revolynk Techs",
+  },
+  {
+    name: "twitter:description",
+    content:
+      "Gain insights into technology, design, AI, and digital strategy with Revolynk’s perspectives.",
+  },
+  { name: "twitter:image", content: "https://www.revolynk.com/perspectives-meta-image.jpg" },
+  { name: "fb:app_id", content: "Your_FB_App_ID" },
+],
   link: [
     { rel: "stylesheet", href: "/assets/css/plugins.css" },
     { rel: "stylesheet", href: "/assets/css/satoshi.css" },
     { rel: "stylesheet", href: "/assets/css/style.css" },
-  ],
-
-  title: "Perspectives Details | Revolynk Techs Pvt. Ltd.",
-  meta: [
-    {
-      name: "description",
-      content:
-        "Learn how Revolynk Techs Private Limited collects, uses, protects, and manages your data. Our Privacy Policy ensures complete transparency and safeguards your personal and business information",
-    },
   ],
   // script: [{ src: '/dark/assets/js/smoother-script.js', defer: true }],
 });

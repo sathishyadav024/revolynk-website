@@ -6,8 +6,7 @@
           <div class="cont md-mb50">
             <h6 class="sub-title main-color mb-15">Who We Are</h6>
             <h3>
-              Our team consists of practitioners who have years of experience in
-              launching and managing projects.
+              We’re the architects of tomorrow’s technology—building reliable, scalable software that transforms businesses.
             </h3>
             <div class="d-flex align-items-end mt-100">
               <div>
@@ -18,10 +17,7 @@
               </div>
               <div class="ml-80">
                 <p>
-                  With our low code solution you can model your process
-                  automation by yourself. This will increase your productivity
-                  in real time and bring all-around flexibility and
-                  best-in-class quality.
+                  Our experienced team blends rapid low‑code automation with solid backend engineering and frontend finesse. The result: platforms that are intuitive, adaptable, and built to last—ensuring quality today and agility tomorrow.
                 </p>
               </div>
             </div>

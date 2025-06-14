@@ -56,6 +56,9 @@ export default defineNuxtConfig({
         },
         { name: "robots", content: "index, follow" },
         { name: "geo.country", content: "IN" },
+        { name: "geo.region", content: "IN-TG" },
+        { name: "geo.placename", content: "Hyderabad" },
+        { name: "ICBM", content: "17.49280282, 78.54749160" },
         {
           property: "og:title",
           content: "Revolynk Techs | Empowering Digital Solutions",
