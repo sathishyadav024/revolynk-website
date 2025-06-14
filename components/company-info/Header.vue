@@ -5,9 +5,7 @@
         <div class="col-lg-10">
           <div class="caption">
             <h2>
-              For more than 10 years, we have been using graphic design and
-              websites to bring brands to life. InFolio is always on the lookout
-              for talent.
+              For over a decade, Revolynk Techs has been turning ideas into reality through cutting-edge web and app development, scalable cloud solutions, and impactful digital marketing. We’re always looking for passionate professionals to help shape the digital future.
             </h2>
             <div class="mt-30">
               <a href="/dark/home-main">Home</a>

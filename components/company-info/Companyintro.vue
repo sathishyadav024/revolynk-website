@@ -13,12 +13,7 @@
         <div class="col-lg-7">
           <div class="text">
             <h4>
-              Whether you are a development agency looking to outsource design
-              work, a company in search of a Product Designer or Product Team, a
-              marketing agency that needs a landing page, a startup that wants
-              to launch an app, or an enterprise that plans to rebrand or
-              redesign its website, we welcome any challenge with our arms wide
-              open.
+              Whether you're a development agency outsourcing UI/UX, a company in need of a dedicated product design or engineering team, a marketing firm seeking high-converting landing pages, a startup ready to launch its app, or an enterprise looking to rebrand or revamp its digital presence — Revolynk Techs is your trusted partner. We embrace every challenge with innovation, agility, and a passion for building impactful digital solutions.
             </h4>
           </div>
         </div>
