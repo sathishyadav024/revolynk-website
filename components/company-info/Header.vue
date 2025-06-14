@@ -5,7 +5,7 @@
         <div class="col-lg-10">
           <div class="caption">
             <h2>
-              For more than 10 years, we’ve been building web, cloud, and mobile solutions that drive digital transformation. Revolynk Techs is always focused on delivering with passion and precision.
+              For more than 10 years, we have been building web platforms and cloud tools to power digital growth. Revolynk Techs is always on the lookout for talent.
             </h2>
             <div class="mt-30">
               <a href="/dark/home-main">Home</a>
