@@ -20,14 +20,14 @@
             </div>
             <div class="col-md-5 rest">
               <div class="img fit-img bord-thin-left">
-                <img src="/dark/assets/imgs/intro/02.jpg" alt="" />
+                <img src="/dark/assets/imgs/intro/mission.png" alt="" />
               </div>
             </div>
           </div>
           <div class="row justify-content-end bord-thin-top rest">
             <div class="col-md-5 rest">
               <div class="img fit-img">
-                <img src="/dark/assets/imgs/intro/03.jpg" alt="" />
+                <img src="/dark/assets/imgs/intro/vision.png" alt="" />
               </div>
             </div>
             <div class="col-md-5 rest">

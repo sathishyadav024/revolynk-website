@@ -1,18 +1,18 @@
 [
   {
-    "img": "/dark/assets/imgs/team/1.jpg",
-    "name": "Robert De Niro",
-    "subName": "Web Designer"
+    "img": "/dark/assets/imgs/team/sathish.png",
+    "name": "Sathish Gurka",
+    "subName": "Devops Engineer"
   },
   {
-    "img": "/dark/assets/imgs/team/2.jpg",
-    "name": "Brendan Fraser",
-    "subName": "Web Designer"
+    "img": "/dark/assets/imgs/team/Raghu.png",
+    "name": "Raghu Varma K",
+    "subName": "Frontend Developer"
   },
   {
-    "img": "/dark/assets/imgs/team/3.jpg",
-    "name": "Ahmed Khaled",
-    "subName": "Web Designer"
+    "img": "/dark/assets/imgs/team/riddhi.png",
+    "name": "Riddhi Singh",
+    "subName": "Graphic Designer"
   },
   {
     "img": "/dark/assets/imgs/team/3.jpg",

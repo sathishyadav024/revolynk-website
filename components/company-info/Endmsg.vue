@@ -4,7 +4,7 @@
       <div class="img">
         <img
           id="grow"
-          src="/dark/assets/imgs/background/2.jpg"
+          src="/dark/assets/imgs/background/bg-image2.png"
           data-speed="0.2"
           data-lag="0"
           alt=""

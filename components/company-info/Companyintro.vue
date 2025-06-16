@@ -2,7 +2,7 @@
   <section class="page-intro position-re">
     <div class="container-fluid rest">
       <div class="img fit-img">
-        <img src="/dark/assets/imgs/background/4.jpg" alt="" />
+        <img src="/dark/assets/imgs/background/bg-image1.png" alt="" />
       </div>
     </div>
     <div class="container pt-100 pb-20">
