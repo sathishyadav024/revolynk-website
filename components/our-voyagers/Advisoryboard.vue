@@ -8,7 +8,7 @@
               <div>
                 <div class="info">
                   <h6>
-                    V Goutham <br />
+                    Goutham <br />
                     Anumala
                   </h6>
                   <p class="nowrap">Ceo Manager</p>
