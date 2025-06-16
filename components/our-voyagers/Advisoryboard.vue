@@ -8,8 +8,8 @@
               <div>
                 <div class="info">
                   <h6>
-                    Sam <br />
-                    Peterson
+                    V Goutham <br />
+                    Anumala
                   </h6>
                   <p class="nowrap">Ceo Manager</p>
                 </div>
@@ -41,7 +41,7 @@
           <div class="content full-width">
             <div class="sec-head mb-30">
               <h6 class="sub-title mb-15 main-color">Our Skills</h6>
-              <h2>The ultmiate guide to marketing success.</h2>
+              <h2>The ultmiate guide to Development success.</h2>
             </div>
             <div class="row justify-content-end">
               <div class="col-lg-11">
