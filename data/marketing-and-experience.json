@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Brand Identity Production",
+    "img": "/dark/assets/imgs/serv-icons/3.png",
+    "desc": "Developing cohesive brand visuals and messaging that resonate with your audience and build recognition.",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Creative Empowering",
+    "img": "/dark/assets/imgs/serv-icons/4.png",
+    "desc": "Inspiring innovation by enabling creative teams to deliver impactful and original digital content.",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Digital Sales And Strategy",
+    "img": "/dark/assets/imgs/serv-icons/5.png",
+    "desc": "Boosting online performance through data-driven strategies that convert and drive growth.",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Intelligent Marketing",
+    "img": "/dark/assets/imgs/serv-icons/5.png",
+    "desc": "Leveraging smart tools and insights to create targeted campaigns that engage and convert audiences.",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Product And Service Innovation",
+    "img": "/dark/assets/imgs/serv-icons/5.png",
+    "desc": "Transforming ideas into market-ready solutions through agile, customer-focused innovation processes.",
+    "link": "/dark/page-services-details"
+  }
+]

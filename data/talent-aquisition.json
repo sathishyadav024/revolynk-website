@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Human Resource Transformation",
+    "img": "/dark/assets/imgs/serv-icons/3.png",
+    "desc": "Redefining workforce strategies to build agile, future-ready HR functions that drive performance.",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Management Services",
+    "img": "/dark/assets/imgs/serv-icons/4.png",
+    "desc": "Providing strategic oversight and operational support to enhance organizational effectiveness.",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Operating Model And Design",
+    "img": "/dark/assets/imgs/serv-icons/5.png",
+    "desc": "Structuring efficient business models that align capabilities, resources, and goals seamlessly.",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Talent Transformation And Upskilling",
+    "img": "/dark/assets/imgs/serv-icons/5.png",
+    "desc": "Empowering teams through targeted learning programs that foster growth and digital readiness.",
+    "link": "/dark/page-services-details"
+  }
+]

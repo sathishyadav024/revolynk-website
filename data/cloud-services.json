@@ -1,50 +1,32 @@
 [
   {
-    "title": "Application Development",
+    "title": "Cloud Computing",
     "img": "/dark/assets/imgs/serv-icons/3.png",
-    "desc": "Crafting user-centric digital experiences through intuitive and visually engaging product design.",
+    "desc": "Empowering scalable, secure, and efficient solutions through innovative cloud-based infrastructure and services.",
     "link": "/dark/page-services-details"
   },
   {
-    "title": "Mobile App Development",
+    "title": "CLoud Infrastructure",
     "img": "/dark/assets/imgs/serv-icons/4.png",
-    "desc": "Building responsive, high-performance websites tailored to your business goals and user needs.",
+    "desc": "Designing robust, scalable cloud infrastructure to support seamless performance and business continuity.",
     "link": "/dark/page-services-details"
   },
   {
-    "title": "Software Development",
+    "title": "Cloud Strategy And Design",
     "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Creating impactful brand identities that communicate your values and captivate your audience.",
+    "desc": "Developing tailored cloud strategies and architectures that align with your vision and drive innovation.",
     "link": "/dark/page-services-details"
   },
   {
-    "title": "Enterprise Architecture",
+    "title": "Infrastructure Management",
     "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Designing seamless and engaging user interfaces that enhance usability and elevate user experiences.",
+    "desc": "Managing and optimizing IT infrastructure to ensure reliability, scalability, and continuous performance.",
     "link": "/dark/page-services-details"
   },
   {
-    "title": "Experience Design",
+    "title": "Network Engineer",
     "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
-    "link": "/dark/page-services-details"
-  },
-  {
-    "title": "Tech Strategy",
-    "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
-    "link": "/dark/page-services-details"
-  },
-  {
-    "title": "Website Development",
-    "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
-    "link": "/dark/page-services-details"
-  },
-  {
-    "title": "UI-UX Design",
-    "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Expert-led session focused on designing, implementing, and troubleshooting network systems for seamless connectivity.",
     "link": "/dark/page-services-details"
   }
 ]

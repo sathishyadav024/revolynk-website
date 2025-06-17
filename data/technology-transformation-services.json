@@ -2,25 +2,25 @@
   {
     "title": "Application Development",
     "img": "/dark/assets/imgs/serv-icons/3.png",
-    "desc": "Crafting user-centric digital experiences through intuitive and visually engaging product design.",
+    "desc": "Building scalable and custom applications that streamline processes and enhance user engagement.",
     "link": "/dark/page-services-details"
   },
   {
     "title": "Mobile App Development",
     "img": "/dark/assets/imgs/serv-icons/4.png",
-    "desc": "Building responsive, high-performance websites tailored to your business goals and user needs.",
+    "desc": "Creating intuitive, high-performance mobile apps tailored to modern user needs and platforms.",
     "link": "/dark/page-services-details"
   },
   {
     "title": "Software Development",
     "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Creating impactful brand identities that communicate your values and captivate your audience.",
+    "desc": "Delivering robust software solutions that solve complex challenges and drive business growth.",
     "link": "/dark/page-services-details"
   },
   {
     "title": "Enterprise Architecture",
     "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Designing seamless and engaging user interfaces that enhance usability and elevate user experiences.",
+    "desc": "Structuring IT systems and strategies to align technology with business vision and scalability.",
     "link": "/dark/page-services-details"
   },
   {
@@ -32,13 +32,13 @@
   {
     "title": "Tech Strategy",
     "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Defining strategic tech roadmaps that support innovation, agility, and business objectives.",
     "link": "/dark/page-services-details"
   },
   {
     "title": "Website Development",
     "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Creating modern, fast, and responsive websites that elevate your brand and user experience.",
     "link": "/dark/page-services-details"
   }
 ]
