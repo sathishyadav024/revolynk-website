@@ -1,42 +1,42 @@
 [
   {
-    "title": "Digital Product Design",
+    "title": "Application Development",
     "img": "/dark/assets/imgs/serv-icons/3.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Crafting user-centric digital experiences through intuitive and visually engaging product design.",
     "link": "/dark/page-services-details"
   },
   {
-    "title": "Web Developments",
+    "title": "Mobile App Development",
     "img": "/dark/assets/imgs/serv-icons/4.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Building responsive, high-performance websites tailored to your business goals and user needs.",
     "link": "/dark/page-services-details"
   },
   {
-    "title": "Branding Design",
+    "title": "Software Development",
+    "img": "/dark/assets/imgs/serv-icons/5.png",
+    "desc": "Creating impactful brand identities that communicate your values and captivate your audience.",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Enterprise Architecture",
+    "img": "/dark/assets/imgs/serv-icons/5.png",
+    "desc": "Designing seamless and engaging user interfaces that enhance usability and elevate user experiences.",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Experience Design",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
     "link": "/dark/page-services-details"
   },
   {
-    "title": "UI-UX Design",
+    "title": "Tech Strategy",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
     "link": "/dark/page-services-details"
   },
   {
-    "title": "UI-UX Design",
-    "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
-    "link": "/dark/page-services-details"
-  },
-  {
-    "title": "UI-UX Design",
-    "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
-    "link": "/dark/page-services-details"
-  },
-  {
-    "title": "UI-UX Design",
+    "title": "Website Development",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
     "link": "/dark/page-services-details"
