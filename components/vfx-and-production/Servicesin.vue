@@ -65,5 +65,5 @@
   </section>
 </template>
 <script setup>
-import data from "@/data/services.json";
+import data from "@/data/vfx-and-production.json";
 </script>

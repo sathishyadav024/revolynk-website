@@ -65,5 +65,5 @@
   </section>
 </template>
 <script setup>
-import data from "@/data/services.json";
+import data from "@/data/marketing-and-experience.json";
 </script>

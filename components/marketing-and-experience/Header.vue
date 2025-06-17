@@ -16,7 +16,7 @@
               </a>
             </div>
             <h1 class="fz-55 mt-30">
-              Network of wormholes colonies extraordinary claims require.
+              Engaging marketing campaigns that convert and retain
             </h1>
           </div>
         </div>

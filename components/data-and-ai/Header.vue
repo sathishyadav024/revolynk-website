@@ -16,7 +16,7 @@
               </a>
             </div>
             <h1 class="fz-55 mt-30">
-              Network of wormholes colonies extraordinary claims require.
+              Optimize operations through AI and analytics
             </h1>
           </div>
         </div>
