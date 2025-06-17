@@ -5,7 +5,7 @@
         <div class="col-lg-3 items width2">
           <div class="item mt-40">
             <div class="img">
-              <img src="/dark/assets/imgs/works/4/1.jpg" alt="" />
+              <img src="/dark/assets/imgs/works/4/11.png" alt="" />
               <div class="cont">
                 <h5>
                   <a href="/dark/project2">A Nice guy</a>
@@ -20,7 +20,7 @@
         <div class="col-lg-3 items width2">
           <div class="item mt-40">
             <div class="img">
-              <img src="/dark/assets/imgs/works/4/2.jpg" alt="" />
+              <img src="/dark/assets/imgs/works/4/12.png" alt="" />
               <div class="cont">
                 <h5>
                   <a href="/dark/project3">A Nice guy</a>
@@ -35,7 +35,7 @@
         <div class="col-lg-3 items width2">
           <div class="item mt-40">
             <div class="img">
-              <img src="/dark/assets/imgs/works/4/3.jpg" alt="" />
+              <img src="/dark/assets/imgs/works/4/13.png" alt="" />
               <div class="cont">
                 <h5>
                   <a href="/dark/project4">A Nice guy</a>
@@ -50,7 +50,7 @@
         <div class="col-lg-3 items width2">
           <div class="item mt-40">
             <div class="img">
-              <img src="/dark/assets/imgs/works/4/4.jpg" alt="" />
+              <img src="/dark/assets/imgs/works/4/14.png" alt="" />
               <div class="cont">
                 <h5>
                   <a href="/dark/project6">A Nice guy</a>
@@ -65,7 +65,7 @@
         <div class="col-lg-6 items">
           <div class="item mt-40">
             <div class="img">
-              <img src="/dark/assets/imgs/works/4/h3.jpg" alt="" />
+              <img src="/dark/assets/imgs/works/4/h31.png" alt="" />
               <div class="cont d-flex align-items-center">
                 <div>
                   <h5>
@@ -84,7 +84,7 @@
         <div class="col-lg-6 items">
           <div class="item mt-40">
             <div class="img">
-              <img src="/dark/assets/imgs/works/4/h4.jpg" alt="" />
+              <img src="/dark/assets/imgs/works/4/h32.png" alt="" />
               <div class="cont d-flex align-items-center">
                 <div>
                   <h5>

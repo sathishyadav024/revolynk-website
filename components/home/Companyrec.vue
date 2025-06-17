@@ -10,7 +10,7 @@
             <div class="cont mt-30">
               <span class="opacity-7 text-u fz-13 ls1 mb-5"> August 2020 </span>
               <h6>
-                <a href="/dark/project1">Branding Design</a>
+                <a href="/dark/project1">Digital Marketing</a>
               </h6>
             </div>
           </div>
@@ -22,7 +22,7 @@
             </div>
             <div class="cont d-flex align-items-center mt-30">
               <h6>
-                <a href="/dark/project2">Branding Design</a>
+                <a href="/dark/project2">Application Development</a>
               </h6>
               <span class="opacity-7 text-u fz-13 ls1 ml-auto">
                 August 2020
@@ -35,7 +35,7 @@
             <div class="cont mb-30">
               <span class="opacity-7 text-u fz-13 ls1 mb-5"> August 2020 </span>
               <h6>
-                <a href="/dark/project5">Branding Design</a>
+                <a href="/dark/project5">Secure Cloud</a>
               </h6>
             </div>
             <div class="img">
@@ -55,7 +55,7 @@
                     August 2020
                   </span>
                   <h6>
-                    <a href="/dark/project6">Branding Design</a>
+                    <a href="/dark/project6">Cyber Security</a>
                   </h6>
                 </div>
               </div>
@@ -70,7 +70,7 @@
                     August 2020
                   </span>
                   <h6>
-                    <a href="/dark/project1">Branding Design</a>
+                    <a href="/dark/project1">Data and Ai</a>
                   </h6>
                 </div>
               </div>
