@@ -8,7 +8,7 @@
               <img src="/dark/assets/imgs/works/1/dm.png" alt="" />
             </div>
             <div class="cont mt-30">
-              <span class="opacity-7 text-u fz-13 ls1 mb-5"> August 2020 </span>
+              <span class="opacity-7 text-u fz-13 ls1 mb-5"></span>
               <h6>
                 <a href="/dark/project1">Digital Marketing</a>
               </h6>
@@ -24,8 +24,7 @@
               <h6>
                 <a href="/dark/project2">Application Development</a>
               </h6>
-              <span class="opacity-7 text-u fz-13 ls1 ml-auto">
-                August 2020
+              <span class="opacity-7 text-u fz-13 ls1 ml-auto">                
               </span>
             </div>
           </div>
@@ -33,7 +32,7 @@
         <div class="col-lg-4 items">
           <div class="item">
             <div class="cont mb-30">
-              <span class="opacity-7 text-u fz-13 ls1 mb-5"> August 2020 </span>
+              <span class="opacity-7 text-u fz-13 ls1 mb-5"></span>
               <h6>
                 <a href="/dark/project5">Secure Cloud</a>
               </h6>
@@ -51,8 +50,7 @@
                   <img src="/dark/assets/imgs/works/1/cyber-security.png" alt="" />
                 </div>
                 <div class="cont mt-30">
-                  <span class="opacity-7 text-u fz-13 ls1 mb-5">
-                    August 2020
+                  <span class="opacity-7 text-u fz-13 ls1 mb-5">                    
                   </span>
                   <h6>
                     <a href="/dark/project6">Cyber Security</a>
@@ -66,8 +64,7 @@
                   <img src="/dark/assets/imgs/works/1/data-and-ai.png" alt="" />
                 </div>
                 <div class="cont mt-30">
-                  <span class="opacity-7 text-u fz-13 ls1 mb-5">
-                    August 2020
+                  <span class="opacity-7 text-u fz-13 ls1 mb-5">                    
                   </span>
                   <h6>
                     <a href="/dark/project1">Data and Ai</a>
