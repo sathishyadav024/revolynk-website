@@ -9,8 +9,7 @@
         <div class="col-lg-6">
           <div class="text mb-100">
             <h4>
-We prioritizes in providing high-quality design and branding
-              solutions to businesses and individuals.
+From concept to execution, we deliver intelligent branding and tech solutions that grow with your business.
             </h4>
           </div>
         </div>
