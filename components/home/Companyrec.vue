@@ -5,7 +5,7 @@
         <div class="col-lg-3 offset-lg-3 items">
           <div class="item">
             <div class="img">
-              <img src="/dark/assets/imgs/works/1/q1.jpg" alt="" />
+              <img src="/dark/assets/imgs/works/1/dm.png" alt="" />
             </div>
             <div class="cont mt-30">
               <span class="opacity-7 text-u fz-13 ls1 mb-5"> August 2020 </span>
@@ -18,7 +18,7 @@
         <div class="col-lg-6 items pb-40">
           <div class="item">
             <div class="img">
-              <img src="/dark/assets/imgs/works/1/q2.jpg" alt="" />
+              <img src="/dark/assets/imgs/works/1/ap-development.png" alt="" />
             </div>
             <div class="cont d-flex align-items-center mt-30">
               <h6>
@@ -39,7 +39,7 @@
               </h6>
             </div>
             <div class="img">
-              <img src="/dark/assets/imgs/works/1/q5.jpg" alt="" />
+              <img src="/dark/assets/imgs/works/1/cloud.png" alt="" />
             </div>
           </div>
         </div>
@@ -48,7 +48,7 @@
             <div class="col-lg-6 items">
               <div class="item">
                 <div class="img">
-                  <img src="/dark/assets/imgs/works/1/q6.jpg" alt="" />
+                  <img src="/dark/assets/imgs/works/1/cyber-security.png" alt="" />
                 </div>
                 <div class="cont mt-30">
                   <span class="opacity-7 text-u fz-13 ls1 mb-5">
@@ -63,7 +63,7 @@
             <div class="col-lg-6 items">
               <div class="item">
                 <div class="img">
-                  <img src="/dark/assets/imgs/works/1/q7.jpg" alt="" />
+                  <img src="/dark/assets/imgs/works/1/data-and-ai.png" alt="" />
                 </div>
                 <div class="cont mt-30">
                   <span class="opacity-7 text-u fz-13 ls1 mb-5">
