@@ -24,7 +24,7 @@
     </div>
     <div
       class="background bg-img mt-80"
-      data-background="/dark/assets/imgs/blog/cyber-security.png"
+      data-background="/dark/assets/imgs/blog/cyber-security-image.png"
     ></div>
   </header>
 </template>

@@ -24,7 +24,7 @@
     </div>
     <div
       class="background bg-img mt-80"
-      data-background="/dark/assets/imgs/blog/marketing-technology1.png"
+      data-background="/dark/assets/imgs/blog/marketing-experience.png"
     ></div>
   </header>
 </template>
