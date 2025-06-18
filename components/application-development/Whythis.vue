@@ -82,10 +82,9 @@
                     <img src="/dark/assets/imgs/serv-icons/0.png" alt="" />
                   </div>
                   <div class="text">
+                    <h6 class="sub-title mb-15 main-color">End-to-end development solutions.</h6>
                     <p>
-                      We are a creative studio specializing in design,
-                      development and strategy many different skills and
-                      disciplines in the production of all web.
+                      From wireframing and UI/UX design to full-stack development and post-launch optimization, we offer a comprehensive service stack to bring your digital product to life.
                     </p>
                   </div>
                   <a href="/dark/page-services" class="mt-30">
