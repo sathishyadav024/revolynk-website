@@ -1,11 +1,5 @@
 [
   {
-    "title": "Cloud",
-    "img": "/dark/assets/imgs/serv-icons/3.png",
-    "desc": "Enabling scalable, secure, and flexible cloud solutions to modernize infrastructure and boost agility.",
-    "link": "/dark/page-services-details"
-  },
-  {
     "title": "Technology Transformation",
     "img": "/dark/assets/imgs/serv-icons/4.png",
     "desc": "Driving innovation through the integration of emerging tech to streamline and scale operations.",
@@ -45,6 +39,12 @@
     "title": "Talent Acquisition",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Sourcing top talent through strategic hiring solutions that align with your growth goals.",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Cloud",
+    "img": "/dark/assets/imgs/serv-icons/3.png",
+    "desc": "Enabling scalable, secure, and flexible cloud solutions to modernize infrastructure and boost agility.",
     "link": "/dark/page-services-details"
   }
 ]
