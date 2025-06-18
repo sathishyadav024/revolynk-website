@@ -1,31 +1,31 @@
 [
   {
     "title": "Technology Transformation",
-    "img": "/dark/assets/imgs/serv-icons/4.png",
+    "img": "/dark/assets/imgs/serv-icons/0.png",
     "desc": "Driving innovation through the integration of emerging tech to streamline and scale operations.",
     "link": "/services/technology-transformation"
   },
   {
     "title": "Digital Marketing",
-    "img": "/dark/assets/imgs/serv-icons/5.png",
+    "img": "/dark/assets/imgs/serv-icons/2.png",
     "desc": "Creating data-driven marketing strategies that enhance visibility and maximize online growth.",
     "link": "/services/marketing-and-experience"
   },
   {
     "title": "Cyber Security",
-    "img": "/dark/assets/imgs/serv-icons/5.png",
+    "img": "/dark/assets/imgs/serv-icons/1.png",
     "desc": "Protecting digital ecosystems with proactive security solutions that defend against modern threats.",
     "link": "/services/cyber-security"
   },
   {
     "title": "Data And Ai",
-    "img": "/dark/assets/imgs/serv-icons/5.png",
+    "img": "/dark/assets/imgs/serv-icons/3.png",
     "desc": "Harnessing data and AI to unlock insights, automate processes, and drive smart decisions.",
     "link": "/services/data-and-artificial-intelligence"
   },
   {
     "title": "Digital Engineering",
-    "img": "/dark/assets/imgs/serv-icons/5.png",
+    "img": "/dark/assets/imgs/serv-icons/4.png",
     "desc": "Building digital solutions with engineering excellence to deliver speed, scale, and stability.",
     "link": "/services/digital-engineering"
   },
@@ -37,7 +37,7 @@
   },
   {
     "title": "Talent Acquisition",
-    "img": "/dark/assets/imgs/serv-icons/5.png",
+    "img": "/dark/assets/imgs/serv-icons/6.png",
     "desc": "Sourcing top talent through strategic hiring solutions that align with your growth goals.",
     "link": "/services/talent-acquisition"
   },

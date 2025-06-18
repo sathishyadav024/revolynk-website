@@ -9,14 +9,14 @@
           <div class="caption">
             <div class="sub-title fz-12">
               <a href="#0">
-                <span>Design , </span>
+                <span>Development , </span>
               </a>
               <a href="#0">
-                <span>Development</span>
+                <span>Application Development</span>
               </a>
             </div>
             <h1 class="fz-55 mt-30">
-              Network of wormholes colonies extraordinary claims require.
+              Smart applications for bold brands in fast-moving markets.
             </h1>
           </div>
         </div>

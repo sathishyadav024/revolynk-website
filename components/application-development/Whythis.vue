@@ -37,10 +37,9 @@
                     <img src="/dark/assets/imgs/serv-icons/1.png" alt="" />
                   </div>
                   <div class="text">
+                    <h6 class="sub-title mb-15 main-color">End-to-end development solutions.</h6>
                     <p>
-                      We are a creative studio specializing in design,
-                      development and strategy many different skills and
-                      disciplines in the production of all web.
+                      From wireframing and UI/UX design to full-stack development and post-launch optimization, we offer a comprehensive service stack to bring your digital product to life.
                     </p>
                   </div>
                   <a href="/dark/page-services" class="mt-30">
@@ -101,16 +100,14 @@
         <div class="col-lg-6 valign">
           <div class="serv-tab-link tab-links full-width pt-40">
             <div class="sec-head mb-30">
-              <h6 class="sub-title mb-15 main-color">Who we are?</h6>
-              <h2>The ultmiate guide to marketing success.</h2>
+              <h6 class="sub-title mb-15 main-color">Application Development</h6>
+              <h2>Your vision, engineered into powerful digital experiences.</h2>
             </div>
             <div class="row justify-content-end">
               <div class="col-lg-11">
                 <div class="text mb-50">
                   <p>
-                    We shifted our talents to frontier science because we wanted
-                    our work to have tangible. we get front row seats to the
-                    future.
+                    We craft digital applications that blend intuitive design with strong performance, delivering real value from idea to launch.
                   </p>
                 </div>
                 <ul class="rest">
@@ -120,7 +117,7 @@
                     data-tab="tabs-1"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">01</span> About Us
+                      <span class="fz-18 opacity-7 mr-15">01</span> Our Process
                     </h3>
                   </li>
                   <li
@@ -129,7 +126,7 @@
                     data-tab="tabs-2"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">02</span> Our Mission
+                      <span class="fz-18 opacity-7 mr-15">02</span> Tech Expertise
                     </h3>
                   </li>
                   <li
@@ -138,13 +135,13 @@
                     data-tab="tabs-3"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">03</span> Our Vision
+                      <span class="fz-18 opacity-7 mr-15">03</span> Tailored Solutions
                     </h3>
                   </li>
                   <li @click="openTab" class="item-link" data-tab="tabs-4">
                     <h3>
                       <span class="fz-18 opacity-7 mr-15">04</span>
-                      Achievements
+                      Why Choose Us
                     </h3>
                   </li>
                 </ul>
