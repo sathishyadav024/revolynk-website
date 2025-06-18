@@ -14,10 +14,9 @@
                     <img src="/dark/assets/imgs/serv-icons/0.png" alt="" />
                   </div>
                   <div class="text">
+                    <h6 class="sub-title mb-15 main-color">End-to-end development solutions.</h6>
                     <p>
-                      We are a creative studio specializing in design,
-                      development and strategy many different skills and
-                      disciplines in the production of all web.
+                      From wireframing and UI/UX design to full-stack development and post-launch optimization, we offer a comprehensive service stack to bring your digital product to life.
                     </p>
                   </div>
                   <a href="/dark/page-services" class="mt-30">
@@ -59,10 +58,9 @@
                     <img src="/dark/assets/imgs/serv-icons/2.png" alt="" />
                   </div>
                   <div class="text">
+                    <h6 class="sub-title mb-15 main-color">End-to-end development solutions.</h6>
                     <p>
-                      We are a creative studio specializing in design,
-                      development and strategy many different skills and
-                      disciplines in the production of all web.
+                      From wireframing and UI/UX design to full-stack development and post-launch optimization, we offer a comprehensive service stack to bring your digital product to life.
                     </p>
                   </div>
                   <a href="/dark/page-services" class="mt-30">
@@ -118,6 +116,9 @@
                     <h3>
                       <span class="fz-18 opacity-7 mr-15">01</span> Our Process
                     </h3>
+                    <p>
+                    A step-by-step, agile methodology ensures transparency, efficiency, and faster time to market.
+                  </p>
                   </li>
                   <li
                     @click="openTab"
@@ -127,6 +128,9 @@
                     <h3>
                       <span class="fz-18 opacity-7 mr-15">02</span> Tech Expertise
                     </h3>
+                     <p>
+                    Skilled in modern frameworks like React, Flutter, Node.js, and cloud-native architecture.
+                  </p>
                   </li>
                   <li
                     @click="openTab"
@@ -136,12 +140,18 @@
                     <h3>
                       <span class="fz-18 opacity-7 mr-15">03</span> Tailored Solutions
                     </h3>
+                     <p>
+                    We build for your users — not just the specs. Every feature is backed by research and usability principles.
+                  </p>
                   </li>
                   <li @click="openTab" class="item-link" data-tab="tabs-4">
                     <h3>
                       <span class="fz-18 opacity-7 mr-15">04</span>
                       Why Choose Us
                     </h3>
+                     <p>
+                    On-time delivery, quality code, and continuous support that clients trust — time and again.
+                  </p>
                   </li>
                 </ul>
               </div>
