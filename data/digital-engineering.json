@@ -3,18 +3,18 @@
     "title": "Advanced Automation",
     "img": "/dark/assets/imgs/serv-icons/3.png",
     "desc": "Streamlining operations with intelligent automation solutions that boost efficiency and accuracy.",
-    "link": "/dark/page-services-details"
+    "link": "/services/tech-engineering/advanced-automation"
   },
   {
     "title": "Intelligent Management",
     "img": "/dark/assets/imgs/serv-icons/4.png",
     "desc": "Enhancing decision-making through smart systems that optimize workflows and resource use.",
-    "link": "/dark/page-services-details"
+    "link": "/services/tech-engineering/intelligent-management"
   },
   {
     "title": "Research And Development",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Driving innovation through focused research and cutting-edge development strategies.",
-    "link": "/dark/page-services-details"
+    "link": "/services/tech-engineering/research-and-development"
   }
 ]

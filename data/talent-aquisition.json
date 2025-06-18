@@ -3,24 +3,24 @@
     "title": "Human Resource Transformation",
     "img": "/dark/assets/imgs/serv-icons/3.png",
     "desc": "Redefining workforce strategies to build agile, future-ready HR functions that drive performance.",
-    "link": "/dark/page-services-details"
+    "link": "/services/talent-acquisition-services/human-resource-transformation"
   },
   {
     "title": "Management Services",
     "img": "/dark/assets/imgs/serv-icons/4.png",
     "desc": "Providing strategic oversight and operational support to enhance organizational effectiveness.",
-    "link": "/dark/page-services-details"
+    "link": "/services/talent-acquisition-services/management-services"
   },
   {
     "title": "Operating Model And Design",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Structuring efficient business models that align capabilities, resources, and goals seamlessly.",
-    "link": "/dark/page-services-details"
+    "link": "/services/talent-acquisition-services/operating-model-and-design"
   },
   {
     "title": "Talent Transformation And Upskilling",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Empowering teams through targeted learning programs that foster growth and digital readiness.",
-    "link": "/dark/page-services-details"
+    "link": "/services/talent-acquisition-services/talent-transformation-and-upskilling"
   }
 ]

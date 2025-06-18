@@ -3,18 +3,18 @@
     "title": "Ai Strategy And Value",
     "img": "/dark/assets/imgs/serv-icons/3.png",
     "desc": "Driving business growth with AI strategies that deliver measurable value and long-term impact.",
-    "link": "/dark/page-services-details"
+    "link": "/services/data-and-ai/ai-strategy-and-value"
   },
   {
     "title": "Data Services",
     "img": "/dark/assets/imgs/serv-icons/4.png",
     "desc": "Unlocking actionable insights through data integration, analysis, and intelligent management.",
-    "link": "/dark/page-services-details"
+    "link": "/services/data-and-ai/data-services"
   },
   {
     "title": "Responsible Ai",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Building ethical AI systems that prioritize fairness, transparency, and accountability.",
-    "link": "/dark/page-services-details"
+    "link": "/services/data-and-ai/responsible-ai"
   }
 ]

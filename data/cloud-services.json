@@ -9,24 +9,24 @@
     "title": "CLoud Infrastructure",
     "img": "/dark/assets/imgs/serv-icons/4.png",
     "desc": "Designing robust, scalable cloud infrastructure to support seamless performance and business continuity.",
-    "link": "/dark/page-services-details"
+    "link": "/services/cloud/cloud-infrastructure"
   },
   {
     "title": "Cloud Strategy And Design",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Developing tailored cloud strategies and architectures that align with your vision and drive innovation.",
-    "link": "/dark/page-services-details"
+    "link": "/services/cloud/cloud-strategy-and-design"
   },
   {
     "title": "Infrastructure Management",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Managing and optimizing IT infrastructure to ensure reliability, scalability, and continuous performance.",
-    "link": "/dark/page-services-details"
+    "link": "/services/cloud/infrastructure-management"
   },
   {
     "title": "Network Engineer",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Expert-led session focused on designing, implementing, and troubleshooting network systems for seamless connectivity.",
-    "link": "/dark/page-services-details"
+    "link": "/services/cloud/network-engineering"
   }
 ]

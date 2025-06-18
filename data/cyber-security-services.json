@@ -3,24 +3,24 @@
     "title": "Cyber Physical Security",
     "img": "/dark/assets/imgs/serv-icons/3.png",
     "desc": "Securing physical systems through integrated cybersecurity solutions that protect real-world assets.",
-    "link": "/dark/page-services-details"
+    "link": "/services/cyber-security-services/cyber-physical-security"
   },
   {
     "title": "Cyber Production",
     "img": "/dark/assets/imgs/serv-icons/4.png",
     "desc": "Implementing secure digital workflows to ensure safe, efficient, and uninterrupted production processes.",
-    "link": "/dark/page-services-details"
+    "link": "/services/cyber-security-services/cyber-production"
   },
   {
     "title": "Cyber Reselience",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Strengthening systems and operations to detect, respond, and recover swiftly from cyber threats.",
-    "link": "/dark/page-services-details"
+    "link": "/services/cyber-security-services/cyber-reselience"
   },
   {
     "title": "Cyber Strategy",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Aligning cybersecurity initiatives with business goals to enable long-term protection and growth.",
-    "link": "/dark/page-services-details"
+    "link": "/services/cyber-security-services/cyber-strategy"
   }
 ]

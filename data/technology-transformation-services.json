@@ -3,42 +3,42 @@
     "title": "Application Development",
     "img": "/dark/assets/imgs/serv-icons/3.png",
     "desc": "Building scalable and custom applications that streamline processes and enhance user engagement.",
-    "link": "/dark/page-services-details"
+    "link": "/services/tech-transformation/application-development"
   },
   {
     "title": "Mobile App Development",
     "img": "/dark/assets/imgs/serv-icons/4.png",
     "desc": "Creating intuitive, high-performance mobile apps tailored to modern user needs and platforms.",
-    "link": "/dark/page-services-details"
+    "link": "/services/tech-transformation/mobile-app-development"
   },
   {
     "title": "Software Development",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Delivering robust software solutions that solve complex challenges and drive business growth.",
-    "link": "/dark/page-services-details"
+    "link": "/services/tech-transformation/software-development"
   },
   {
     "title": "Enterprise Architecture",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Structuring IT systems and strategies to align technology with business vision and scalability.",
-    "link": "/dark/page-services-details"
+    "link": "/services/tech-transformation/enterprise-architecture"
   },
   {
     "title": "Experience Design",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
-    "link": "/dark/page-services-details"
+    "link": "/services/tech-transformation/experience-design"
   },
   {
     "title": "Tech Strategy",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Defining strategic tech roadmaps that support innovation, agility, and business objectives.",
-    "link": "/dark/page-services-details"
+    "link": "/services/tech-transformation/tech-strategy"
   },
   {
     "title": "Website Development",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Creating modern, fast, and responsive websites that elevate your brand and user experience.",
-    "link": "/dark/page-services-details"
+    "link": "/services/tech-transformation/website-development"
   }
 ]

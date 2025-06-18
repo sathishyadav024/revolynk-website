@@ -3,18 +3,18 @@
     "title": "Creative Enhancement",
     "img": "/dark/assets/imgs/serv-icons/3.png",
     "desc": "Elevating visual storytelling through innovative design solutions that inspire and engage audiences.",
-    "link": "/dark/page-services-details"
+    "link": "/services/vfx-production/creative-enhancement"
   },
   {
     "title": "Game Designing And Developemnt",
     "img": "/dark/assets/imgs/serv-icons/4.png",
     "desc": "Creating immersive gaming experiences through captivating design and seamless development.",
-    "link": "/dark/page-services-details"
+    "link": "/services/vfx-production/game-designing-development"
   },
   {
     "title": "Graphics Production",
     "img": "/dark/assets/imgs/serv-icons/5.png",
     "desc": "Delivering high-quality visual content that enhances brand appeal and communicates with impact.",
-    "link": "/dark/page-services-details"
+    "link": "/services/vfx-production/graphics-production"
   }
 ]
