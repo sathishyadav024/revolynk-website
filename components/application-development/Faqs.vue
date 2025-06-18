@@ -2,10 +2,10 @@
   <section class="faqs pt-50 pb-80 position-re">
     <div class="container">
       <div class="sec-head">
-        <h6 class="sub-title main-color mb-25">Our Process</h6>
+        <h6 class="sub-title main-color mb-25">Our Expertise</h6>
         <div class="bord pt-25 bord-thin-top d-flex align-items-center">
           <h2 class="fw-600">
-            Business <span class="fw-200">Development</span>
+            Application <span class="fw-200">Development</span>
           </h2>
           <div class="ml-auto">
             <a href="/dark/page-about2" class="go-more">
@@ -22,13 +22,12 @@
             <div class="accordion bord">
               <div class="item mb-15 wow fadeInUp" data-wow-delay=".1s">
                 <div @click="openAccordion" class="title">
-                  <h6>Designing Content With AI Power</h6>
+                  <h6>Designing Content with AI Power</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    From predictive UI behavior to automated content generation, our AI-enhanced design solutions increase usability and reduce time-to-market.
                   </p>
                 </div>
               </div>
@@ -40,29 +39,25 @@
                 </div>
                 <div class="accordion-info">
                   <p class="mb-30">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Cross-functional collaboration between UI/UX designers, full-stack developers, and QA engineers ensures high-quality outcomes.
                   </p>
                   <p class="mb-10">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    With certified experts in React, Flutter, Node.js, and more, we select the right tech stack for each unique project.
                   </p>
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Continuous upskilling and agile practices allow us to stay ahead of industry shifts and innovations.
                   </p>
                 </div>
               </div>
 
               <div class="item mb-15 wow fadeInUp" data-wow-delay=".3s">
                 <div @click="openAccordion" class="title">
-                  <h6>Talented, Professional & Expert Team</h6>
+                  <h6>Robust Application Architecture</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    We apply clean coding principles, containerization, and API-first design to ensure flexibility and long-term maintainability.
                   </p>
                 </div>
               </div>
@@ -74,21 +69,19 @@
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    We focus on UI aesthetics, tone consistency, and seamless user flows that reflect your brand’s voice and values.
                   </p>
                 </div>
               </div>
 
               <div class="item wow fadeInUp" data-wow-delay=".5s">
                 <div @click="openAccordion" class="title">
-                  <h6>We Build and Activate Brands</h6>
+                  <h6>Ongoing Support & Optimization</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    We provide bug fixes, performance monitoring, feature upgrades, and security patches to keep your application at peak performance.
                   </p>
                 </div>
               </div>
