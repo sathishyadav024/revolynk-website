@@ -1,50 +1,50 @@
 [
   {
-    "title": "Digital Product Design",
+    "title": "Cloud",
     "img": "/dark/assets/imgs/serv-icons/3.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Enabling scalable, secure, and flexible cloud solutions to modernize infrastructure and boost agility.",
     "link": "/dark/page-services-details"
   },
   {
-    "title": "Web Developments",
+    "title": "Technology Transformation",
     "img": "/dark/assets/imgs/serv-icons/4.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Driving innovation through the integration of emerging tech to streamline and scale operations.",
     "link": "/dark/page-services-details"
   },
   {
-    "title": "Branding Design",
+    "title": "Digital Marketing",
     "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Creating data-driven marketing strategies that enhance visibility and maximize online growth.",
     "link": "/dark/page-services-details"
   },
   {
-    "title": "UI-UX Design",
+    "title": "Cyber Security",
     "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Protecting digital ecosystems with proactive security solutions that defend against modern threats.",
     "link": "/dark/page-services-details"
   },
   {
-    "title": "UI-UX Design",
+    "title": "Data And Ai",
     "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Harnessing data and AI to unlock insights, automate processes, and drive smart decisions.",
     "link": "/dark/page-services-details"
   },
   {
-    "title": "UI-UX Design",
+    "title": "Digital Engineering",
     "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Building digital solutions with engineering excellence to deliver speed, scale, and stability.",
     "link": "/dark/page-services-details"
   },
   {
-    "title": "UI-UX Design",
+    "title": "Vfx And Production",
     "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Bringing ideas to life with cinematic visual effects and production that captivate and inspire.",
     "link": "/dark/page-services-details"
   },
   {
-    "title": "UI-UX Design",
+    "title": "Talent Acquisition",
     "img": "/dark/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Sourcing top talent through strategic hiring solutions that align with your growth goals.",
     "link": "/dark/page-services-details"
   }
 ]
