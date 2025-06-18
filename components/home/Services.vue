@@ -33,7 +33,7 @@
           data-swiper="container"
           v-bind="swiperOptions"
         >
-          <SwiperSlide v-for="(item, i) in data.slice(0, 4)" :key="i">
+          <SwiperSlide v-for="(item, i) in data.slice(0, 8)" :key="i">
             <div class="item-box radius-15">
               <div class="icon mb-40 opacity-5">
                 <img :src="item.img" alt="" />
