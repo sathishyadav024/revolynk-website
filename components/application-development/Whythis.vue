@@ -14,7 +14,7 @@
                     <img src="/dark/assets/imgs/serv-icons/0.png" alt="" />
                   </div>
                   <div class="text">
-                    <h6 class="sub-title mb-15 main-color">End-to-end development solutions.</h6>
+                    <h6 class="sub-title mb-15 main-color">End-to-end development solutions</h6>
                     <p>
                       From wireframing and UI/UX design to full-stack development and post-launch optimization, we offer a comprehensive service stack to bring your digital product to life.
                     </p>
@@ -36,7 +36,7 @@
                     <img src="/dark/assets/imgs/serv-icons/1.png" alt="" />
                   </div>
                   <div class="text">
-                    <h6 class="sub-title mb-15 main-color">End-to-end development solutions.</h6>
+                    <h6 class="sub-title mb-15 main-color">End-to-end development solutions</h6>
                     <p>
                       From wireframing and UI/UX design to full-stack development and post-launch optimization, we offer a comprehensive service stack to bring your digital product to life.
                     </p>
@@ -58,7 +58,7 @@
                     <img src="/dark/assets/imgs/serv-icons/2.png" alt="" />
                   </div>
                   <div class="text">
-                    <h6 class="sub-title mb-15 main-color">End-to-end development solutions.</h6>
+                    <h6 class="sub-title mb-15 main-color">End-to-end development solutions</h6>
                     <p>
                       From wireframing and UI/UX design to full-stack development and post-launch optimization, we offer a comprehensive service stack to bring your digital product to life.
                     </p>
@@ -80,7 +80,7 @@
                     <img src="/dark/assets/imgs/serv-icons/0.png" alt="" />
                   </div>
                   <div class="text">
-                    <h6 class="sub-title mb-15 main-color">End-to-end development solutions.</h6>
+                    <h6 class="sub-title mb-15 main-color">End-to-end development solutions</h6>
                     <p>
                       From wireframing and UI/UX design to full-stack development and post-launch optimization, we offer a comprehensive service stack to bring your digital product to life.
                     </p>
@@ -138,12 +138,6 @@
                   <li @click="openTab" class="item-link" data-tab="tabs-4">
                     <h3>
                       <span class="fz-18 opacity-7 mr-15">04</span>
-                      API Integration & Automation
-                    </h3>                     
-                  </li>
-                  <li @click="openTab" class="item-link" data-tab="tabs-5">
-                    <h3>
-                      <span class="fz-18 opacity-7 mr-15">05</span>
                       End-to-End Delivery
                     </h3>                     
                   </li>
