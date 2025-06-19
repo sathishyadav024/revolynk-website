@@ -132,13 +132,13 @@
                     data-tab="tabs-3"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">03</span> Platform-Specific Optimization
+                      <span class="fz-18 opacity-7 mr-15">03</span> Platform Optimization
                     </h3>
                   </li>
                   <li @click="openTab" class="item-link" data-tab="tabs-4">
                     <h3>
                       <span class="fz-18 opacity-7 mr-15">04</span>
-                      App Store Launch & Maintenance
+                      App Launch & Support
                     </h3>
                   </li>
                 </ul>

@@ -5,7 +5,7 @@
         <h6 class="sub-title main-color mb-25">Our Expertise</h6>
         <div class="bord pt-25 bord-thin-top d-flex align-items-center">
           <h2 class="fw-600">
-            Mobile App<span class="fw-200">Development</span>
+            Mobile App <span class="fw-200">Development</span>
           </h2>
           <div class="ml-auto">
             <a href="/dark/page-about2" class="go-more">
