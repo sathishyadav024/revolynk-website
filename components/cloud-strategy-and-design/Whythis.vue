@@ -114,7 +114,7 @@
                     data-tab="tabs-1"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">01</span> Cloud Readiness Assessment
+                      <span class="fz-18 opacity-7 mr-15">01</span> Cloud Readiness
                     </h3>
                   </li>
                   <li
@@ -123,7 +123,7 @@
                     data-tab="tabs-2"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">02</span> Strategic Roadmap Development
+                      <span class="fz-18 opacity-7 mr-15">02</span> Strategic Roadmap
                     </h3>
                   </li>
                   <li
@@ -132,13 +132,13 @@
                     data-tab="tabs-3"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">03</span> Architecture Design & Governance
+                      <span class="fz-18 opacity-7 mr-15">03</span> Design & Governance
                     </h3>
                   </li>
                   <li @click="openTab" class="item-link" data-tab="tabs-4">
                     <h3>
                       <span class="fz-18 opacity-7 mr-15">04</span>
-                       Cost & Risk Optimization Planning
+                       Cost & Risk Optimization
                     </h3>
                   </li>
                 </ul>

@@ -98,7 +98,7 @@
           <div class="serv-tab-link tab-links full-width pt-40">
             <div class="sec-head mb-30">
               <h6 class="sub-title mb-15 main-color">CLOUD INFRASTRUCTURE</h6>
-              <h2>Your digital foundation, engineered for performance and resilience.</h2>
+              <h2>Engineered for performance and resilience.</h2>
             </div>
             <div class="row justify-content-end">
               <div class="col-lg-11">
@@ -114,7 +114,7 @@
                     data-tab="tabs-1"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">01</span> Architecture Design & Planning
+                      <span class="fz-18 opacity-7 mr-15">01</span> Architecture Planning
                     </h3>
                   </li>
                   <li
@@ -123,7 +123,7 @@
                     data-tab="tabs-2"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">02</span> Cloud Infrastructure Deployment
+                      <span class="fz-18 opacity-7 mr-15">02</span> Infrastructure Deployment
                     </h3>
                   </li>
                   <li
@@ -132,13 +132,13 @@
                     data-tab="tabs-3"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">03</span> Network & Storage Configuration
+                      <span class="fz-18 opacity-7 mr-15">03</span> Network Configuration
                     </h3>
                   </li>
                   <li @click="openTab" class="item-link" data-tab="tabs-4">
                     <h3>
                       <span class="fz-18 opacity-7 mr-15">04</span>
-                      High Availability & Disaster Recovery
+                      Disaster Recovery
                     </h3>
                   </li>
                 </ul>
