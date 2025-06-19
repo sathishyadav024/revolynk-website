@@ -14,10 +14,9 @@
                     <img src="/dark/assets/imgs/serv-icons/0.png" alt="" />
                   </div>
                   <div class="text">
+                    <h6 class="sub-title mb-15 main-color">END-TO-END CLOUD SOLUTIONS</h6>
                     <p>
-                      We are a creative studio specializing in design,
-                      development and strategy many different skills and
-                      disciplines in the production of all web.
+                      From cloud readiness assessments to full-scale deployment and management, we deliver solutions that unlock agility, reduce costs, and accelerate digital transformation.
                     </p>
                   </div>
                   <a href="/dark/page-services" class="mt-30">
@@ -37,10 +36,9 @@
                     <img src="/dark/assets/imgs/serv-icons/1.png" alt="" />
                   </div>
                   <div class="text">
+                    <h6 class="sub-title mb-15 main-color">END-TO-END CLOUD SOLUTIONS</h6>
                     <p>
-                      We are a creative studio specializing in design,
-                      development and strategy many different skills and
-                      disciplines in the production of all web.
+                      From cloud readiness assessments to full-scale deployment and management, we deliver solutions that unlock agility, reduce costs, and accelerate digital transformation.
                     </p>
                   </div>
                   <a href="/dark/page-services" class="mt-30">
@@ -60,10 +58,9 @@
                     <img src="/dark/assets/imgs/serv-icons/2.png" alt="" />
                   </div>
                   <div class="text">
+                    <h6 class="sub-title mb-15 main-color">END-TO-END CLOUD SOLUTIONS</h6>
                     <p>
-                      We are a creative studio specializing in design,
-                      development and strategy many different skills and
-                      disciplines in the production of all web.
+                      From cloud readiness assessments to full-scale deployment and management, we deliver solutions that unlock agility, reduce costs, and accelerate digital transformation.
                     </p>
                   </div>
                   <a href="/dark/page-services" class="mt-30">
@@ -83,10 +80,9 @@
                     <img src="/dark/assets/imgs/serv-icons/0.png" alt="" />
                   </div>
                   <div class="text">
+                    <h6 class="sub-title mb-15 main-color">END-TO-END CLOUD SOLUTIONS</h6>
                     <p>
-                      We are a creative studio specializing in design,
-                      development and strategy many different skills and
-                      disciplines in the production of all web.
+                      From cloud readiness assessments to full-scale deployment and management, we deliver solutions that unlock agility, reduce costs, and accelerate digital transformation.
                     </p>
                   </div>
                   <a href="/dark/page-services" class="mt-30">
@@ -101,16 +97,14 @@
         <div class="col-lg-6 valign">
           <div class="serv-tab-link tab-links full-width pt-40">
             <div class="sec-head mb-30">
-              <h6 class="sub-title mb-15 main-color">Who we are?</h6>
-              <h2>The ultmiate guide to marketing success.</h2>
+              <h6 class="sub-title mb-15 main-color">CLOUD COMPUTING</h6>
+              <h2>Your infrastructure, reimagined for speed, scale, and flexibility.</h2>
             </div>
             <div class="row justify-content-end">
               <div class="col-lg-11">
                 <div class="text mb-50">
                   <p>
-                    We shifted our talents to frontier science because we wanted
-                    our work to have tangible. we get front row seats to the
-                    future.
+                    We help businesses modernize and migrate to the cloud — building scalable, secure, and cost-efficient cloud environments that support innovation and resilience.
                   </p>
                 </div>
                 <ul class="rest">
@@ -120,7 +114,7 @@
                     data-tab="tabs-1"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">01</span> About Us
+                      <span class="fz-18 opacity-7 mr-15">01</span> Cloud Strategy
                     </h3>
                   </li>
                   <li
@@ -129,7 +123,7 @@
                     data-tab="tabs-2"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">02</span> Our Mission
+                      <span class="fz-18 opacity-7 mr-15">02</span> Infrastructure Migration
                     </h3>
                   </li>
                   <li
@@ -138,13 +132,13 @@
                     data-tab="tabs-3"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">03</span> Our Vision
+                      <span class="fz-18 opacity-7 mr-15">03</span> Cloud Security
                     </h3>
                   </li>
                   <li @click="openTab" class="item-link" data-tab="tabs-4">
                     <h3>
                       <span class="fz-18 opacity-7 mr-15">04</span>
-                      Achievements
+                      Monitoring & Optimization
                     </h3>
                   </li>
                 </ul>

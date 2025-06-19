@@ -9,14 +9,14 @@
           <div class="caption">
             <div class="sub-title fz-12">
               <a href="#0">
-                <span>Design , </span>
+                <span>Cloud , </span>
               </a>
               <a href="#0">
-                <span>Development</span>
+                <span>Cloud Computing</span>
               </a>
             </div>
             <h1 class="fz-55 mt-30">
-              Network of wormholes colonies extraordinary claims require.
+              Scalable cloud solutions for bold brands driving digital transformation.
             </h1>
           </div>
         </div>
@@ -24,7 +24,7 @@
     </div>
     <div
       class="background bg-img mt-80"
-      data-background="/dark/assets/imgs/blog/cloud-security.png"
+      data-background="/dark/assets/imgs/blog/cloud-computing.png"
     ></div>
   </header>
 </template>

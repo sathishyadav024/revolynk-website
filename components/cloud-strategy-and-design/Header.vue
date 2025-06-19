@@ -9,14 +9,14 @@
           <div class="caption">
             <div class="sub-title fz-12">
               <a href="#0">
-                <span>Design , </span>
+                <span>Cloud , </span>
               </a>
               <a href="#0">
-                <span>Development</span>
+                <span>Cloud Strategy And Desingn</span>
               </a>
             </div>
             <h1 class="fz-55 mt-30">
-              Network of wormholes colonies extraordinary claims require.
+              Future-ready cloud strategy and design for bold brands embracing change.
             </h1>
           </div>
         </div>
@@ -24,7 +24,7 @@
     </div>
     <div
       class="background bg-img mt-80"
-      data-background="/dark/assets/imgs/blog/b1.jpg"
+      data-background="/dark/assets/imgs/blog/cloud-strategy-and-design.png"
     ></div>
   </header>
 </template>

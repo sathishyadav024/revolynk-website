@@ -123,7 +123,7 @@
                     data-tab="tabs-2"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">02</span> Front & Backend Development
+                      <span class="fz-18 opacity-7 mr-15">02</span> Full-Stack Development
                     </h3>
                   </li>
                   <li
@@ -132,13 +132,13 @@
                     data-tab="tabs-3"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">03</span> CMS & E-commerce Solutions
+                      <span class="fz-18 opacity-7 mr-15">03</span> CMS & E-commerce
                     </h3>
                   </li>
                   <li @click="openTab" class="item-link" data-tab="tabs-4">
                     <h3>
                       <span class="fz-18 opacity-7 mr-15">04</span>
-                      SEO & Performance Optimization
+                      SEO & Optimization
                     </h3>
                   </li>
                 </ul>

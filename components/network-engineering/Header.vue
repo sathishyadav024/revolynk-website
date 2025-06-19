@@ -9,14 +9,14 @@
           <div class="caption">
             <div class="sub-title fz-12">
               <a href="#0">
-                <span>Design , </span>
+                <span>Cloud , </span>
               </a>
               <a href="#0">
-                <span>Development</span>
+                <span>Network Engineering</span>
               </a>
             </div>
             <h1 class="fz-55 mt-30">
-              Network of wormholes colonies extraordinary claims require.
+              Reliable network engineering for bold brands demanding seamless connectivity.
             </h1>
           </div>
         </div>
