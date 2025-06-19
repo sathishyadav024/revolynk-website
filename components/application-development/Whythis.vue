@@ -114,11 +114,8 @@
                     data-tab="tabs-1"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">01</span> Our Process
+                      <span class="fz-18 opacity-7 mr-15">01</span> Custom App Development
                     </h3>
-                    <p>
-                    A step-by-step, agile methodology ensures transparency, efficiency, and faster time to market.
-                  </p>
                   </li>
                   <li
                     @click="openTab"
@@ -126,11 +123,8 @@
                     data-tab="tabs-2"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">02</span> Tech Expertise
+                      <span class="fz-18 opacity-7 mr-15">02</span> Cross-Platform Expertise
                     </h3>
-                     <p>
-                    Skilled in modern frameworks like React, Flutter, Node.js, and cloud-native architecture.
-                  </p>
                   </li>
                   <li
                     @click="openTab"
@@ -138,20 +132,20 @@
                     data-tab="tabs-3"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">03</span> Tailored Solutions
-                    </h3>
-                     <p>
-                    We build for your users — not just the specs. Every feature is backed by research and usability principles.
-                  </p>
+                      <span class="fz-18 opacity-7 mr-15">03</span> Scalable Architecture
+                    </h3>                     
                   </li>
                   <li @click="openTab" class="item-link" data-tab="tabs-4">
                     <h3>
                       <span class="fz-18 opacity-7 mr-15">04</span>
-                      Why Choose Us
-                    </h3>
-                     <p>
-                    On-time delivery, quality code, and continuous support that clients trust — time and again.
-                  </p>
+                      API Integration & Automation
+                    </h3>                     
+                  </li>
+                  <li @click="openTab" class="item-link" data-tab="tabs-5">
+                    <h3>
+                      <span class="fz-18 opacity-7 mr-15">05</span>
+                      End-to-End Delivery
+                    </h3>                     
                   </li>
                 </ul>
               </div>
