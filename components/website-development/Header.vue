@@ -1,7 +1,7 @@
 <template>
   <header
     class="blog-header bg-img section-padding pb-0"
-    data-background="/dark/assets/imgs/header/b1.jpg"
+    data-background="/dark/assets/imgs/header/bg1.jpg"
   >
     <div class="container mt-80">
       <div class="row justify-content-center">
