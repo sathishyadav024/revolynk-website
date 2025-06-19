@@ -114,7 +114,7 @@
                     data-tab="tabs-1"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">01</span> Custom Software Engineering
+                      <span class="fz-18 opacity-7 mr-15">01</span> Custom Software
                     </h3>
                   </li>
                   <li
@@ -123,7 +123,7 @@
                     data-tab="tabs-2"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">02</span> Scalable System Architecture
+                      <span class="fz-18 opacity-7 mr-15">02</span> Scalable Architecture
                     </h3>
                   </li>
                   <li
