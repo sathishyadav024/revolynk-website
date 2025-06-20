@@ -98,7 +98,7 @@
           <div class="serv-tab-link tab-links full-width pt-40">
             <div class="sec-head mb-30">
               <h6 class="sub-title mb-15 main-color">CREATIVE ENHANCEMENT</h6>
-              <h2>Your brand expression, elevated through design, storytelling, and innovation.</h2>
+              <h2>Your brand expression, elevated through design, storytelling and innovation.</h2>
             </div>
             <div class="row justify-content-end">
               <div class="col-lg-11">
