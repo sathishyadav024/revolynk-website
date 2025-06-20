@@ -9,14 +9,14 @@
           <div class="caption">
             <div class="sub-title fz-12">
               <a href="#0">
-                <span>Design , </span>
+                <span>Cyber Security , </span>
               </a>
               <a href="#0">
-                <span>Development</span>
+                <span>Cyber Strategy</span>
               </a>
             </div>
             <h1 class="fz-55 mt-30">
-              Network of wormholes colonies extraordinary claims require.
+              Proactive cyber strategy empowering bold brands to stay ahead of risk.
             </h1>
           </div>
         </div>
@@ -24,7 +24,7 @@
     </div>
     <div
       class="background bg-img mt-80"
-      data-background="/dark/assets/imgs/blog/b1.jpg"
+      data-background="/dark/assets/imgs/blog/cyber-strategy.png"
     ></div>
   </header>
 </template>

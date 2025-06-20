@@ -114,7 +114,7 @@
                     data-tab="tabs-1"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">01</span> Brand Strategy & Positioning
+                      <span class="fz-18 opacity-7 mr-15">01</span> Brand Strategy
                     </h3>
                   </li>
                   <li
@@ -123,7 +123,7 @@
                     data-tab="tabs-2"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">02</span>  Logo & Visual System Design
+                      <span class="fz-18 opacity-7 mr-15">02</span>  Logo & Visual Design
                     </h3>
                   </li>
                   <li
