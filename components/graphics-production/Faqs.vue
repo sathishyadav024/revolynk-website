@@ -2,10 +2,10 @@
   <section class="faqs pt-50 pb-80 position-re">
     <div class="container">
       <div class="sec-head">
-        <h6 class="sub-title main-color mb-25">Our Process</h6>
+        <h6 class="sub-title main-color mb-25">Our Expertise</h6>
         <div class="bord pt-25 bord-thin-top d-flex align-items-center">
           <h2 class="fw-600">
-            Business <span class="fw-200">Development</span>
+            Graphics <span class="fw-200">Production</span>
           </h2>
           <div class="ml-auto">
             <a href="/dark/page-about2" class="go-more">
@@ -22,73 +22,66 @@
             <div class="accordion bord">
               <div class="item mb-15 wow fadeInUp" data-wow-delay=".1s">
                 <div @click="openAccordion" class="title">
-                  <h6>Designing Content With AI Power</h6>
+                  <h6>Designing Impactful Visuals That Drive Meaning and Engagement</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    We create graphic solutions that are visually stunning and strategically aligned — blending creativity, consistency, and clarity across every format and platform.
                   </p>
                 </div>
               </div>
 
               <div class="item active mb-15 wow fadeInUp" data-wow-delay=".3s">
                 <div @click="openAccordion" class="title">
-                  <h6>Talented, Professional & Expert Team</h6>
+                  <h6>Expert Graphic Production Teams</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="mb-30">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Graphic designers, illustrators, animators, and visual storytellers
                   </p>
                   <p class="mb-10">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Versatility across digital, print, UI/UX, product, and motion design
                   </p>
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Tools and workflows optimized for speed, quality, and collaboration
                   </p>
                 </div>
               </div>
 
               <div class="item mb-15 wow fadeInUp" data-wow-delay=".3s">
                 <div @click="openAccordion" class="title">
-                  <h6>Talented, Professional & Expert Team</h6>
+                  <h6>Brand-Aligned Visual Creation</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Graphics that reinforce identity, voice, and consistency across touchpoints.
                   </p>
                 </div>
               </div>
 
               <div class="item wow fadeInUp" data-wow-delay=".5s">
                 <div @click="openAccordion" class="title">
-                  <h6>We Build and Activate Brands</h6>
+                  <h6>Multi-Format Content Production</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Assets optimized for web, social, ads, apps, presentations, and more.
                   </p>
                 </div>
               </div>
 
               <div class="item wow fadeInUp" data-wow-delay=".5s">
                 <div @click="openAccordion" class="title">
-                  <h6>We Build and Activate Brands</h6>
+                  <h6>Motion & Dynamic Design Elements</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Animations and transitions that boost interactivity, storytelling, and viewer retention.
                   </p>
                 </div>
               </div>

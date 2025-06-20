@@ -5,7 +5,7 @@
         <h6 class="sub-title main-color mb-25">Our Process</h6>
         <div class="bord pt-25 bord-thin-top d-flex align-items-center">
           <h2 class="fw-600">
-            Business <span class="fw-200">Development</span>
+            Game <span class="fw-200">Designing And Development</span>
           </h2>
           <div class="ml-auto">
             <a href="/dark/page-about2" class="go-more">
@@ -22,73 +22,66 @@
             <div class="accordion bord">
               <div class="item mb-15 wow fadeInUp" data-wow-delay=".1s">
                 <div @click="openAccordion" class="title">
-                  <h6>Designing Content With AI Power</h6>
+                  <h6>Blending Creativity, Code, and Gameplay to Build Impactful Games</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    We develop immersive gaming experiences that engage players emotionally and intellectually — combining high-end design, storytelling, and cutting-edge technology.
                   </p>
                 </div>
               </div>
 
               <div class="item active mb-15 wow fadeInUp" data-wow-delay=".3s">
                 <div @click="openAccordion" class="title">
-                  <h6>Talented, Professional & Expert Team</h6>
+                  <h6>Multidisciplinary Game Teams</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="mb-30">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Game designers, developers, artists, sound designers, and storytellers
                   </p>
                   <p class="mb-10">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Experience across mobile, PC, console, VR/AR, and multiplayer platforms
                   </p>
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Agile pipelines for rapid prototyping, playtesting, and iteration
                   </p>
                 </div>
               </div>
 
               <div class="item mb-15 wow fadeInUp" data-wow-delay=".3s">
                 <div @click="openAccordion" class="title">
-                  <h6>Talented, Professional & Expert Team</h6>
+                  <h6>Immersive Game Worlds & Storytelling</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Crafting rich narratives, characters, and environments that pull players in.
                   </p>
                 </div>
               </div>
 
               <div class="item wow fadeInUp" data-wow-delay=".5s">
                 <div @click="openAccordion" class="title">
-                  <h6>We Build and Activate Brands</h6>
+                  <h6>Mechanics-First Development</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Designing intuitive, balanced gameplay systems that deliver satisfaction and challenge.
                   </p>
                 </div>
               </div>
 
               <div class="item wow fadeInUp" data-wow-delay=".5s">
                 <div @click="openAccordion" class="title">
-                  <h6>We Build and Activate Brands</h6>
+                  <h6>Live Game Management & Monetization</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Ongoing support, updates, and monetization strategies to maximize retention and growth.
                   </p>
                 </div>
               </div>
