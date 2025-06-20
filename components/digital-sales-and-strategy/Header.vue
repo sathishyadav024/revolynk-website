@@ -9,14 +9,14 @@
           <div class="caption">
             <div class="sub-title fz-12">
               <a href="#0">
-                <span>Design , </span>
+                <span>Marketing , </span>
               </a>
               <a href="#0">
-                <span>Development</span>
+                <span>Digital Sales And Strategy</span>
               </a>
             </div>
             <h1 class="fz-55 mt-30">
-              Network of wormholes colonies extraordinary claims require.
+              Driven digital strategy to accelerate sales and fuel bold brand growth.
             </h1>
           </div>
         </div>
@@ -24,7 +24,7 @@
     </div>
     <div
       class="background bg-img mt-80"
-      data-background="/dark/assets/imgs/blog/b1.jpg"
+      data-background="/dark/assets/imgs/blog/digital-sales-and-strategy.png"
     ></div>
   </header>
 </template>
