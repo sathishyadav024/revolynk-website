@@ -138,7 +138,7 @@
                   <li @click="openTab" class="item-link" data-tab="tabs-4">
                     <h3>
                       <span class="fz-18 opacity-7 mr-15">04</span>
-                      Secure Delivery Frameworks
+                      Secure Delivery
                     </h3>
                   </li>
                 </ul>
