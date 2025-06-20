@@ -27,13 +27,13 @@ import LoadingScreen from "@/components/loader";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 
-import Header from "@/components/creative-enhancement/Header";
-import Whythis from "@/components/creative-enhancement/Whythis";
-import Whatwedo from "@/components/creative-enhancement/Whatwedo";
-import Whatclient from "@/components/creative-enhancement/Whatclient";
-import Casestudies from "@/components/creative-enhancement/Casestudies";
-import Faqs from "@/components/creative-enhancement/Faqs";
-import Cta from "@/components/creative-enhancement/Cta";
+import Header from "@/components/graphics-production/Header";
+import Whythis from "@/components/graphics-production/Whythis";
+import Whatwedo from "@/components/graphics-production/Whatwedo";
+import Whatclient from "@/components/graphics-production/Whatclient";
+import Casestudies from "@/components/graphics-production/Casestudies";
+import Faqs from "@/components/graphics-production/Faqs";
+import Cta from "@/components/graphics-production/Cta";
 
 import { onMounted } from "vue";
 

@@ -2,10 +2,10 @@
   <section class="faqs pt-50 pb-80 position-re">
     <div class="container">
       <div class="sec-head">
-        <h6 class="sub-title main-color mb-25">Our Process</h6>
+        <h6 class="sub-title main-color mb-25">Our Expertise</h6>
         <div class="bord pt-25 bord-thin-top d-flex align-items-center">
           <h2 class="fw-600">
-            Business <span class="fw-200">Development</span>
+            Management <span class="fw-200">Services</span>
           </h2>
           <div class="ml-auto">
             <a href="/dark/page-about2" class="go-more">
@@ -22,73 +22,66 @@
             <div class="accordion bord">
               <div class="item mb-15 wow fadeInUp" data-wow-delay=".1s">
                 <div @click="openAccordion" class="title">
-                  <h6>Designing Content With AI Power</h6>
+                  <h6>Empowering Efficient, Accountable, and Scalable Business Operations</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    We partner with organizations to manage complexity, reduce friction, and unlock performance — delivering structured management approaches tailored to your evolving needs.
                   </p>
                 </div>
               </div>
 
               <div class="item active mb-15 wow fadeInUp" data-wow-delay=".3s">
                 <div @click="openAccordion" class="title">
-                  <h6>Talented, Professional & Expert Team</h6>
+                  <h6>Integrated Management Teams</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="mb-30">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Business consultants, project managers, compliance officers, and analysts
                   </p>
                   <p class="mb-10">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Cross-industry expertise with proven frameworks and governance models
                   </p>
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Agile and structured methods to manage transformation and continuity
                   </p>
                 </div>
               </div>
 
               <div class="item mb-15 wow fadeInUp" data-wow-delay=".3s">
                 <div @click="openAccordion" class="title">
-                  <h6>Talented, Professional & Expert Team</h6>
+                  <h6>Strategic & Operational Alignment</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Link business goals with operational execution through clear plans, KPIs, and workflows.
                   </p>
                 </div>
               </div>
 
               <div class="item wow fadeInUp" data-wow-delay=".5s">
                 <div @click="openAccordion" class="title">
-                  <h6>We Build and Activate Brands</h6>
+                  <h6>Governance & Risk Management</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Embed transparency, accountability, and compliance across core functions.
                   </p>
                 </div>
               </div>
 
               <div class="item wow fadeInUp" data-wow-delay=".5s">
                 <div @click="openAccordion" class="title">
-                  <h6>We Build and Activate Brands</h6>
+                  <h6>Performance Monitoring & Optimization</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Utilize dashboards and data tools for tracking, reporting, and continuous improvement.
                   </p>
                 </div>
               </div>

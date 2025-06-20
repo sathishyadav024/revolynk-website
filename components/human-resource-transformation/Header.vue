@@ -9,14 +9,14 @@
           <div class="caption">
             <div class="sub-title fz-12">
               <a href="#0">
-                <span>Design , </span>
+                <span>Talent Acquisition , </span>
               </a>
               <a href="#0">
-                <span>Development</span>
+                <span>Human Resource Trandformation </span>
               </a>
             </div>
             <h1 class="fz-55 mt-30">
-              Network of wormholes colonies extraordinary claims require.
+              Transforming HR to empower bold brands with agile, people-first strategies.
             </h1>
           </div>
         </div>
@@ -24,7 +24,7 @@
     </div>
     <div
       class="background bg-img mt-80"
-      data-background="/dark/assets/imgs/blog/b1.jpg"
+      data-background="/dark/assets/imgs/blog/human-resource-transformation.png"
     ></div>
   </header>
 </template>

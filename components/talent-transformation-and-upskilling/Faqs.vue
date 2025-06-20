@@ -2,10 +2,10 @@
   <section class="faqs pt-50 pb-80 position-re">
     <div class="container">
       <div class="sec-head">
-        <h6 class="sub-title main-color mb-25">Our Process</h6>
+        <h6 class="sub-title main-color mb-25">Our Expertise</h6>
         <div class="bord pt-25 bord-thin-top d-flex align-items-center">
           <h2 class="fw-600">
-            Business <span class="fw-200">Development</span>
+            Talent <span class="fw-200">Transformation And Upskilling</span>
           </h2>
           <div class="ml-auto">
             <a href="/dark/page-about2" class="go-more">
@@ -22,73 +22,66 @@
             <div class="accordion bord">
               <div class="item mb-15 wow fadeInUp" data-wow-delay=".1s">
                 <div @click="openAccordion" class="title">
-                  <h6>Designing Content With AI Power</h6>
+                  <h6>Building Skilled, Agile Workforces for a Rapidly Changing World</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    We partner with organizations to create talent strategies that close capability gaps, support lifelong learning, and boost engagement and retention.
                   </p>
                 </div>
               </div>
 
               <div class="item active mb-15 wow fadeInUp" data-wow-delay=".3s">
                 <div @click="openAccordion" class="title">
-                  <h6>Talented, Professional & Expert Team</h6>
+                  <h6>Future-Ready Talent Teams</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="mb-30">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Learning architects, instructional designers, HR tech specialists, and career strategists
                   </p>
                   <p class="mb-10">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Proven success in enterprise reskilling, leadership development, and digital fluency programs
                   </p>
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Aligned with industry frameworks like SFIA, WEF Skills Taxonomy, and DDI
                   </p>
                 </div>
               </div>
 
               <div class="item mb-15 wow fadeInUp" data-wow-delay=".3s">
                 <div @click="openAccordion" class="title">
-                  <h6>Talented, Professional & Expert Team</h6>
+                  <h6>Strategic Workforce Planning</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Identify critical roles, assess readiness, and plan development aligned with business goals.
                   </p>
                 </div>
               </div>
 
               <div class="item wow fadeInUp" data-wow-delay=".5s">
                 <div @click="openAccordion" class="title">
-                  <h6>We Build and Activate Brands</h6>
+                  <h6>Personalized, Scalable Learning Journeys</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Deliver modular learning paths using LMS/LXP platforms, microlearning, and blended formats.
                   </p>
                 </div>
               </div>
 
               <div class="item wow fadeInUp" data-wow-delay=".5s">
                 <div @click="openAccordion" class="title">
-                  <h6>We Build and Activate Brands</h6>
+                  <h6>Culture of Continuous Learning</h6>
                   <span class="ico ti-plus"></span>
                 </div>
                 <div class="accordion-info">
                   <p class="">
-                    Taken possession of my entire soul, like these sweet
-                    mornings of spring which i enjoy with my whole.
+                    Instill a mindset of growth and adaptability through coaching, feedback, and recognition loops.
                   </p>
                 </div>
               </div>
