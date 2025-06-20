@@ -123,7 +123,7 @@
                     data-tab="tabs-2"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">02</span> Learning Experience Design
+                      <span class="fz-18 opacity-7 mr-15">02</span> Learning Experience
                     </h3>
                   </li>
                   <li

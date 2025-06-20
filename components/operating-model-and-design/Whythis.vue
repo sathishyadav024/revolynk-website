@@ -132,7 +132,7 @@
                     data-tab="tabs-3"
                   >
                     <h3>
-                      <span class="fz-18 opacity-7 mr-15">03</span> Decision-Making Frameworks
+                      <span class="fz-18 opacity-7 mr-15">03</span> Decision-Making
                     </h3>
                   </li>
                   <li @click="openTab" class="item-link" data-tab="tabs-4">
